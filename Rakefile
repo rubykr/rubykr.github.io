@@ -10,9 +10,6 @@ rescue LoadError => e
   exit -1
 end
 
-HOST = 'www.ruby-lang.org'
-LANGUAGES = %w[bg de en es fr id it ja ko pl pt ru tr vi zh_cn zh_tw]
-
 task :default => [:generate]
 
 desc "Generates the Jekyll site"
