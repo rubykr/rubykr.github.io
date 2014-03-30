@@ -1,0 +1,12 @@
+language: ruby
+cache: bundler
+rvm:
+- 2.1.1
+branches:
+  only:
+  - master
+before_script: bundle exec rake generate
+script: bundle exec rake release
+env:
+  global:
+    secure: UpgcPKzyC19Yo5n9T3UdLmai9mYPAeTrzr2euvI/6Y5VVBg+EffxAxYsmMGLNT+LXaGF7cusH9ooVZwRZd6mRw5z+QkYxrSMCMMIwmUyrRNYZBj/nEOHsor05n81jJTeicwlHKV9ggOq9kshPyWlD1TuHNuApAePeE8q59U+p8I=
