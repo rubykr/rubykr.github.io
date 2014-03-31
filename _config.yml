@@ -4,5 +4,6 @@ pygments: true
 exclude:
 - Gemfile
 - Gemfile.lock
+- README.md
 - Rakefile
 - vendor
