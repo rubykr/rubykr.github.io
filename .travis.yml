@@ -9,4 +9,4 @@ before_script: bundle exec rake generate
 script: bundle exec rake release
 env:
   global:
-    secure: UpgcPKzyC19Yo5n9T3UdLmai9mYPAeTrzr2euvI/6Y5VVBg+EffxAxYsmMGLNT+LXaGF7cusH9ooVZwRZd6mRw5z+QkYxrSMCMMIwmUyrRNYZBj/nEOHsor05n81jJTeicwlHKV9ggOq9kshPyWlD1TuHNuApAePeE8q59U+p8I=
+    secure: KLuKTR30DpaXXh3Vr0LoSYhXn7OsPL/yR5yoRUKB7C6MKxPFt+5gHzdPbXcx/hrcheXkQad4elxkco8qQiKWe4hNeorQFssbsvVSe2P5s2GMaYJma+WdEwDlYwsjpP98xIQ4v5vRamXehfpB8jy/n+mlvdGAIiXA/d1ka9BpkJI=
