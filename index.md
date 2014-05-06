@@ -19,6 +19,9 @@ title: 루비 프로그래밍 언어 한글 문서
 - [Joinc : 루비 언어 튜토리얼](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Ruby/Tutorial01)
 - [(번역) nacyot의 프로그래밍 이야기 : 알아두면 도움이 되는 55가지 루비 기법](https://gist.github.com/nacyot/7624036)
 - [(번역) nacyot의 프로그래밍 이야기 : 쿡패드(Cookpad) 루비 스타일 가이드](http://blog.nacyot.com/articles/2014-03-23-cookpad-ruby-styleguide/)
+- [nacyot의 프로그래밍 이야기 : 루비의 꽃, 열거자 Enumerable 모듈](http://blog.nacyot.com/articles/2014-04-19-ruby-enumerable/)
+- [Ashal JOKER : Youtube playlist - Coding Life](http://www.youtube.com/playlist?list=PLbdtsbZUwdeSAjccModOzFREAyX9W4Jh-)
+- [P]
 
 ## 루비 온 레일즈(Ruby on Rails)
 
@@ -38,6 +41,8 @@ title: 루비 프로그래밍 언어 한글 문서
 
 - [(번역) Better Specs](http://betterspecs.org/ko)
 - [nacyot의 프로그래밍 이야기 : Rspec과 Guard를 활용한 루비 테스트 자동화](http://blog.nacyot.com/articles/2013-10-02-ruby-test-automation-with-rspec-and-guard/)
+- [nacyot의 프로그래밍 이야기 : 루비 테스트 프레임워크 RSpec 2.14 매쳐(Matchers)](http://blog.nacyot.com/articles/2014-04-07-rspec-matchers/)
+- [yisangwook - TDD는 죽었다 - Rails를 만든 DHH의 글](http://yisangwook.tumblr.com/post/83725422949/tdd-is-dead-long-live-testing)
 
 ## 루비모션(RubyMotion)
 
