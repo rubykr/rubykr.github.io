@@ -27,6 +27,7 @@ title: 루비 프로그래밍 언어 한글 문서
 - (번역) 레일즈 가이드 [RubyKr](http://rorlab.org/rg/index.html) [ROR Lab](http://rubykr.github.io/rails_guides/)
 - [(번역) Fl0wk27er : 루비 온 레일스 아키텍처 디자인](http://flowkater.github.io/blog/2013/08/12/rails-architecture/)
 - [Remotty Team Blog : AngularJS + Rails 프로젝트 구성](http://blog.remotty.com/blog/2014/02/01/angularjs-plus-rails-peurojegteu-guseong/)
+- [초보자를 위한 레일스 가이드라인(가제)](http://rorlabgitbook.github.io/guideline/)
 
 
 ## 젬(Gem)
