@@ -146,7 +146,8 @@ title: 루비 프로그래밍 언어 한글 문서
 
 ## Contributors
 [![marocchino](https://avatars0.githubusercontent.com/u/128431?s=100)](https://github.com/marocchino)
-[![nacyot](https://avatars0.githubusercontent.com/u/148919?s=100)](https://nacyot.com)
+[![nacyot](https://avatars0.githubusercontent.com/u/148919?s=100)](http://nacyot.com)
+[![rorlab](https://avatars2.githubusercontent.com/u/511048?v=2&s=100)](http://rorlab.org/)
 
 ## 기여하기
 
