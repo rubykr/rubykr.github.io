@@ -10,6 +10,7 @@ title: 루비 프로그래밍 언어 한글 문서
 ## 루비(Ruby) 프로그래밍 언어
 
 - [(번역) 루비 : 루비 20분 가이드](https://www.ruby-lang.org/ko/documentation/quickstart/)
+- [(번역) 다른 언어에서 루비로](https://www.ruby-lang.org/ko/documentation/ruby-from-other-languages/)
 - [생활코딩 : 루비](http://opentutorials.org/course/742/4554)
 - [Bigmatch : 맨붕없이 RVM과 루비 설치하기](http://bigmatch.i-um.net/2013/12/%EB%A9%98%EB%B6%95%EC%97%86%EC%9D%B4-rvm%EA%B3%BC-%EB%A3%A8%EB%B9%84-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
 - [블로터 : ‘루비’의 아빠, 마츠모토 유키히로](http://www.bloter.net/archives/184564)
@@ -27,8 +28,9 @@ title: 루비 프로그래밍 언어 한글 문서
 - (번역) 레일즈 가이드 [RubyKr](http://rorlab.org/rg/index.html) [ROR Lab](http://rubykr.github.io/rails_guides/)
 - [(번역) Fl0wk27er : 루비 온 레일스 아키텍처 디자인](http://flowkater.github.io/blog/2013/08/12/rails-architecture/)
 - [Remotty Team Blog : AngularJS + Rails 프로젝트 구성](http://blog.remotty.com/blog/2014/02/01/angularjs-plus-rails-peurojegteu-guseong/)
-- [Gitbook - 초보자를 위한 레일스 가이드북(beta) by RORLab](https://www.gitbook.io/book/rorlab/railsguidebook)
+- [Gitbook - 초보자를 위한 레일스 가이드북 1.0.1](https://www.gitbook.io/book/rorlab/railsguidebook)
 - [Gitbook - Devise 젬 파헤치기 by Lucius Choi](https://www.gitbook.io/book/luciuschoi/exploring_devise)
+- [Gitbook - FoundBlog 따라하기 by Lucius Choi](https://www.gitbook.io/book/luciuschoi/foundblog)
 - [ROR: 서평 사이트 제작][making-byeolbada-1] [2][making-byeolbada-2] [3][making-byeolbada-3] [4][making-byeolbada-4]
 
 [making-byeolbada-1]: http://compiztab.github.io/blog/2014/05/11/making-byeolbada/
@@ -148,13 +150,11 @@ title: 루비 프로그래밍 언어 한글 문서
 
 ## 기여하기
 
-새로 문서를 작성하셨거나 번역하셨으면 페이스북 그룹에 남겨주세요.
 github저장소의 번역은 [기여하기](https://github.com/ruby-korea/ruby-korea.github.io/wiki/%EA%B8%B0%EC%97%AC%ED%95%98%EA%B8%B0) 페이지를 읽고 작업해주시면 됩니다.
+추가하시고 싶은 링크가 있으시면 티켓으로 남겨주셔도 됩니다.
 
 ## Links
 
 - [Github Ruby-Korea Organization](https://github.com/ruby-korea)
 - [Facebook Ruby Korea Group](https://www.facebook.com/groups/rubykr)
 - [루비 공식 홈페이지 문서](https://www.ruby-lang.org/ko/documentation/)
-
-
