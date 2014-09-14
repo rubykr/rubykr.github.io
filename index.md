@@ -86,12 +86,11 @@ title: 루비 프로그래밍 언어 한글 문서
 현재 루비 최신 버전은 2.1, 레일즈 최신 버전은 4.0 입니다. 루비는 1.9 이후 
 버전, 레일즈는 3.0 이후 버전을 다루고 있는 책을 읽으시길 권해 드립니다.
 
+### 루비
+
 - 루비 프로그래밍 언어 
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8970507531) 
   [yes24](http://www.yes24.com/24/goods/7980382?scode=032&amp;OzSrank=5)
-- 레일스와 함께하는 애자일 웹 개발 - 4/E 
-  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8994506063) 
-  [yes24](http://www.yes24.com/24/goods/7097680?scode=032&amp;OzSrank=4)
 - 리팩토링 : 루비 에디션 
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8994506063) 
   [yes24](http://www.yes24.com/24/goods/5714409?scode=032&amp;OzSrank=6)
@@ -101,6 +100,18 @@ title: 루비 프로그래밍 언어 한글 문서
 - Ruby가 보이는 그림책 
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8931550685) 
   [yes24](http://www.yes24.com/24/goods/3689449?scode=032&amp;OzSrank=3)
+- 루비를 깨우치다
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8994774769)
+  [yes24](http://www.yes24.com/24/goods/14163047?scode=032&OzSrank=1)
+
+### 레일스
+
+- 레일스와 함께하는 애자일 웹 개발 - 4/E 
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8994506063) 
+  [yes24](http://www.yes24.com/24/goods/7097680?scode=032&amp;OzSrank=4)
+
+### 기타
+
 - R과 Ruby를 활용한 데이터 해석 입문
   [yes24](http://www.yes24.com/24/goods/11796950?scode=032&OzSrank=1)
 
@@ -135,7 +146,8 @@ title: 루비 프로그래밍 언어 한글 문서
 
 ## Contributors
 [![marocchino](https://avatars0.githubusercontent.com/u/128431?s=100)](https://github.com/marocchino)
-[![nacyot](https://avatars0.githubusercontent.com/u/148919?s=100)](https://nacyot.com)
+[![nacyot](https://avatars0.githubusercontent.com/u/148919?s=100)](http://nacyot.com)
+[![rorlab](https://avatars2.githubusercontent.com/u/511048?v=2&s=100)](http://rorlab.org/)
 
 ## 기여하기
 
