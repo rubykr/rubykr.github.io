@@ -139,8 +139,9 @@ title: 루비 프로그래밍 언어 한글 문서
 
 ## 기여하기
 
-github저장소의 번역은 [기여하기](https://github.com/ruby-korea/ruby-korea.github.io/wiki/%EA%B8%B0%EC%97%AC%ED%95%98%EA%B8%B0) 페이지를 읽고 작업해주시면 됩니다.
-추가하시고 싶은 링크가 있으시면 티켓으로 남겨주셔도 됩니다.
+Ruby Korea 그룹에서는 루비와 관련된 문서를 작성하고, 좋은 글을 번역하고 있습니다. 번역에 참가하시고자 하는 분은 Github의 [Ruby Korea Organization 페이지](https://github.com/ruby-korea)와 [기여하기](https://github.com/ruby-korea/ruby-korea.github.io/wiki/%EA%B8%B0%EC%97%AC%ED%95%98%EA%B8%B0) 페이지를 참고해주시기 바랍니다.
+
+또한 이 문서에 추가하시고 싶은 링크가 있으시면 [저장소](https://github.com/ruby-korea/ruby-korea.github.io)에 풀리퀘스트를 보내주시거나 아래에 댓글을 남겨주시기 바랍니다.
 
 ## Links
 
