@@ -88,6 +88,12 @@ title: 루비 프로그래밍 언어 한글 문서
 
 ### 루비
 
+- 루비로 배우는 객체지향 디자인
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=896626123X)
+  [yes24](http://www.yes24.com/24/Goods/15254976?Acode=101)
+- 루비를 깨우치다
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8994774769)
+  [yes24](http://www.yes24.com/24/goods/14163047?scode=032&OzSrank=1)
 - 루비 프로그래밍 언어 
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8970507531) 
   [yes24](http://www.yes24.com/24/goods/7980382?scode=032&amp;OzSrank=5)
@@ -100,9 +106,6 @@ title: 루비 프로그래밍 언어 한글 문서
 - Ruby가 보이는 그림책 
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8931550685) 
   [yes24](http://www.yes24.com/24/goods/3689449?scode=032&amp;OzSrank=3)
-- 루비를 깨우치다
-  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8994774769)
-  [yes24](http://www.yes24.com/24/goods/14163047?scode=032&OzSrank=1)
 
 ### 레일스
 
