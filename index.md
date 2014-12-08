@@ -22,6 +22,7 @@ title: 루비 프로그래밍 언어 한글 문서
 - [(번역) nacyot의 프로그래밍 이야기 : 쿡패드(Cookpad) 루비 스타일 가이드](http://blog.nacyot.com/articles/2014-03-23-cookpad-ruby-styleguide/)
 - [nacyot의 프로그래밍 이야기 : 루비의 꽃, 열거자 Enumerable 모듈](http://blog.nacyot.com/articles/2014-04-19-ruby-enumerable/)
 - [Ashal JOKER : Youtube playlist - Coding Life](http://www.youtube.com/playlist?list=PLbdtsbZUwdeSAjccModOzFREAyX9W4Jh-)
+- [(번역) 루비 스타일 가이드](https://github.com/dalzony/ruby-style-guide/blob/master/README-koKR.md)
 
 ## 루비 온 레일즈(Ruby on Rails)
 
