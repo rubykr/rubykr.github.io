@@ -83,6 +83,7 @@ title: 루비 프로그래밍 언어 한글 문서
 - [Dev.Study.Archive](http://dev-study.github.io/pages/presentations.html)
 
 ## 책
+{: #books}
 
 현재 루비 최신 버전은 2.1, 레일즈 최신 버전은 4.1 입니다. 루비는 1.9 이후 
 버전, 레일즈는 3.0 이후 버전을 다루고 있는 책을 읽으시길 권해 드립니다.
