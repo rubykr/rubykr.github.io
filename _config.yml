@@ -1,6 +1,7 @@
 name: 루비 프로그래밍 언어 한글 문서
-markdown: redcarpet
+markdown: kramdown
 pygments: true
+timezone: Asia/Seoul
 exclude:
 - Gemfile
 - Gemfile.lock
