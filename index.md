@@ -79,6 +79,7 @@ title: 루비 프로그래밍 언어 한글 문서
 - [HappyRails](http://happyrails.rorlab.org/ko)
 - [Remotty Tech Blog](http://blog.remotty.com)
 - [ROR Lab.](http://rorlab.org/)
+- [이상한 모임](http://we.weirdmeetup.com/tag/ruby/)
 
 ## 책
 {: #book}
