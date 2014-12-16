@@ -55,3 +55,23 @@ task :release do
     sh "git push origin gh-pages"
   end
 end
+
+namespace :check do
+  desc 'validate _site markup with validate-website'
+  task :markup => :generate do
+    options = Jekyll.configuration({'auto' => false, 'server' => false})
+    Dir.chdir('_site') do
+      system("validate-website-static --site '#{options['url']}/' --quiet")
+      exit($?.exitstatus)
+    end
+  end
+  desc "Checks for broken links on http://0.0.0.0:4000/"
+  task :links do
+    require 'spidr'
+    Spidr.start_at('http://0.0.0.0:4000/') do |agent|
+      agent.every_failed_url do |url|
+        puts "Broken link #{url} found."
+      end
+    end
+  end
+end

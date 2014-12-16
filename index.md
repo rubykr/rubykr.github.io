@@ -10,12 +10,12 @@ title: 루비 프로그래밍 언어 한글 문서
 ## 루비(Ruby) 프로그래밍 언어
 {: #ruby}
 
-- [(번역) 루비 : 루비 20분 가이드](https://www.ruby-lang.org/ko/documentation/quickstart/)
+- [(번역) 루비 20분 가이드](https://www.ruby-lang.org/ko/documentation/quickstart/)
 - [(번역) 다른 언어에서 루비로](https://www.ruby-lang.org/ko/documentation/ruby-from-other-languages/)
 - [생활코딩 : 루비](http://opentutorials.org/course/742/4554)
 - [Bigmatch : 맨붕없이 RVM과 루비 설치하기](http://bigmatch.i-um.net/2013/12/%EB%A9%98%EB%B6%95%EC%97%86%EC%9D%B4-rvm%EA%B3%BC-%EB%A3%A8%EB%B9%84-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
 - [블로터 : ‘루비’의 아빠, 마츠모토 유키히로](http://www.bloter.net/archives/184564)
-- [en-light-en-ment : Ruby의 철학에 관한 마츠모토 유키히로의 인터뷰 Part 1](http://joonjeong.wordpress.com/2013/08/15/ruby%EC%9D%98-%EC%B2%A0%ED%95%99%EC%97%90-%EA%B4%80%ED%95%9C-%EB%A7%88%EC%B8%A0%EB%AA%A8%ED%86%A0-%EC%9C%A0%ED%82%A4%ED%9E%88%EB%A1%9C%EC%9D%98-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-1/)
+- [(번역) JOONJEONG : Ruby의 철학에 관한 마츠모토 유키히로의 인터뷰 Part 1](http://we.weirdmeetup.com/ruby의-철학에-관한-마츠모토-유키히로의-인터뷰-part-1/)
 - [Fl0wk27er : Ruby, Rails 스터디 이전 발표 자료](http://flowkater.github.io/blog/2013/05/29/be-a-rubyist-1-2/)
 - [Fl0wk27er : Ruby 와 Rails 배우고 싶을때](http://flowkater.github.io/blog/2013/08/07/ruby-and-rails-learning-resource/)
 - [Joinc : 루비 언어 튜토리얼](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Ruby/Tutorial01)
@@ -29,7 +29,7 @@ title: 루비 프로그래밍 언어 한글 문서
 
 - (번역) 레일즈 가이드 [RubyKr](http://rorlab.org/rg/index.html) [ROR Lab](http://rubykr.github.io/rails_guides/)
 - [(번역) Fl0wk27er : 루비 온 레일스 아키텍처 디자인](http://flowkater.github.io/blog/2013/08/12/rails-architecture/)
-- [Remotty Team Blog : AngularJS + Rails 프로젝트 구성](http://blog.remotty.com/blog/2014/02/01/angularjs-plus-rails-peurojegteu-guseong/)
+- [subicura : AngularJS + Rails 프로젝트 구성](http://blog.remotty.com/blog/2014/02/01/angularjs-plus-rails-peurojegteu-guseong/)
 - [rorlab : 초보자를 위한 레일스 가이드북 1.0.1](https://www.gitbook.io/book/rorlab/railsguidebook)
 - [Lucius Choi : Devise 젬 파헤치기](https://www.gitbook.io/book/luciuschoi/exploring_devise)
 - [Lucius Choi : FoundBlog 따라하기](https://www.gitbook.io/book/luciuschoi/foundblog)
@@ -40,7 +40,7 @@ title: 루비 프로그래밍 언어 한글 문서
 - [(번역) 지킬(jekyll)](http://svperstarz.github.io/jekyll-docs-ko/)
 - [(번역) 시나트라(sinatra)](http://www.sinatrarb.com/intro-ko.html)
 - [(번역) 번들러(Bundler)](http://ruby-korea.github.io/bundler-site/)
-- [(번역) OKAERI PROGRAMMER : Padrino Blog Tutorial](http://blog.baenlee.com/blog/2013/12/30/bundle-exec-padrino-g-project/)
+- [(번역) gosoochaja : Padrino Blog Tutorial](http://blog.baenlee.com/blog/2013/12/30/bundle-exec-padrino-g-project/)
 
 ## 테스트
 {: #testing}
@@ -77,11 +77,9 @@ title: 루비 프로그래밍 언어 한글 문서
 {: #blog}
 
 - [HappyRails](http://happyrails.rorlab.org/ko)
-- [en-light-en-ment](http://joonjeong.wordpress.com/)
 - [Remotty Tech Blog](http://blog.remotty.com)
-- [Rails Maniac](http://railsmaniac.tumblr.com/)
 - [ROR Lab.](http://rorlab.org/)
-- [Dev.Study.Archive](http://dev-study.github.io/pages/presentations.html)
+- [이상한 모임](http://we.weirdmeetup.com/tag/ruby/)
 
 ## 책
 {: #book}
