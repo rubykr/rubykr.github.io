@@ -90,65 +90,60 @@ title: 루비 프로그래밍 언어 한글 문서
 ### 루비
 {: #book-ruby}
 
-- 루비로 배우는 객체지향 디자인
+- 2014.11 루비로 배우는 객체지향 디자인
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=896626123X)
   [yes24](http://www.yes24.com/24/Goods/15254976?Acode=101)
-- 루비를 깨우치다
+  [ebook](http://ebook.insightbook.co.kr/ebooks/5490f4d9bf6e107fd3000008)
+- 2014.08 루비를 깨우치다
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8994774769)
   [yes24](http://www.yes24.com/24/goods/14163047?scode=032&OzSrank=1)
-- 루비 프로그래밍 언어 
+- 2014.01 R과 Ruby를 활용한 데이터 해석 입문
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8965400546)
+  [yes24](http://www.yes24.com/24/goods/11796950?scode=032&OzSrank=1)
+- 2012.11 루비 프로그래밍 언어 
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8970507531)
   [yes24](http://www.yes24.com/24/goods/7980382?scode=032&amp;OzSrank=5)
-- 리팩토링 : 루비 에디션 
+- 2012.05 레일스와 함께하는 애자일 웹 개발 - 4/E 
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8966260349)
+  [yes24](http://www.yes24.com/24/goods/7097680?scode=032&amp;OzSrank=4)
+  [ebook](http://ebook.insightbook.co.kr/ebooks/4fbad65fbf6e100370000002)
+- 2011.09 리팩토링 : 루비 에디션 
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8994506063)
   [yes24](http://www.yes24.com/24/goods/5714409?scode=032&amp;OzSrank=6)
-- 루비 프로그래밍 언어 
-  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8979147384)
-  [yes24](http://www.yes24.com/24/goods/3787559?scode=032&amp;OzSrank=8)
-- Ruby가 보이는 그림책 
-  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8931550685)
-  [yes24](http://www.yes24.com/24/goods/3689449?scode=032&amp;OzSrank=3)
-
-### 레일스
-{: #book-rails}
-
-- 레일스와 함께하는 애자일 웹 개발 - 4/E 
-  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8994506063)
-  [yes24](http://www.yes24.com/24/goods/7097680?scode=032&amp;OzSrank=4)
-
-### 기타
-{: #book-etc}
-
-- R과 Ruby를 활용한 데이터 해석 입문
-  [yes24](http://www.yes24.com/24/goods/11796950?scode=032&OzSrank=1)
 
 ### 오래된 책들
 {: #book-old}
 
-현재 루비 1.8은 지원이 끝난 상태이며 보안 관련 유지보수만 2014년 6월까지
-연장된 상태입니다. 레일즈 2 역시 지원이 끝난 상태입니다. 아래 목록에 있는
-책들은 루비 1.8 이전, 2 이전의 내용을 담고 있습니다. 기본적인 컨샙을
+현재 루비 1.8, 레일즈 2는 지원이 끝난 상태이며 루비 1.9는 보안 유지보수 상태입니다. 아래에 있는
+책들은 루비 1.9 이전, 2 이전의 내용을 담고 있습니다. 기본적인 컨샙을
 이해하는 데에는 무리가 없습니다만, 세세한 부분에서 차이가 있을 수 있습니다.
 가능하면 새로운 책을 읽으시는 걸 추천해 드립니다.
 
-- 입문자를 위한 루비
+- 2010.04 루비 프로그래밍 언어 
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8979147384)
+  [yes24](http://www.yes24.com/24/goods/3787559?scode=032&amp;OzSrank=8)
+- 2010.02 Ruby가 보이는 그림책 
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8931550685)
+  [yes24](http://www.yes24.com/24/goods/3689449?scode=032&amp;OzSrank=3)
+- 2009.02 입문자를 위한 루비
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8990758424)
   [yes24](http://www.yes24.com/24/goods/3279711?scode=032&amp;OzSrank=9)
-- Beginning Ruby on Rails
-[알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8956744181) 
-[yes24](http://www.yes24.com/24/goods/2825095?scode=032&amp;OzSrank=12)
-- 쉽게 배우는 JRuby on rails
+- 2008.02 Beginning Ruby on Rails
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8956744181) 
+  [yes24](http://www.yes24.com/24/goods/2825095?scode=032&amp;OzSrank=12)
+- 2007.07 쉽게 배우는 JRuby on rails
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8995856459)
-- 레일스를 위한 루비
+- 2007.05 레일스를 위한 루비
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8990758688)
   [yes24](http://www.yes24.com/24/goods/2539575?scode=032&amp;OzSrank=10)
-- 웹 개발 2.0 루비 온 레일스 
+- 2007.03 웹 개발 2.0 루비 온 레일스 
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8960770000)
   [yes24](http://www.yes24.com/24/goods/2495263?scode=032&amp;OzSrank=11)
-- Programming Ruby 프로그래밍 루비 - 전2권 
+- 2007.02 Programming Ruby 프로그래밍 루비 - 전2권 
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8991268250)
   [yes24](http://www.yes24.com/24/goods/2314079?scode=032&amp;OzSrank=15)
-- Ruby on Rails- 초고속 웹 개발의 시작 
+  [ebook](http://ebook.insightbook.co.kr/ebooks/4fbad6dcbf6e1002ed000007)
+- 2006.11 Ruby on Rails- 초고속 웹 개발의 시작 
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8979144539)
   [yes24](http://www.yes24.com/24/goods/2296786?scode=032&amp;OzSrank=14)
 
