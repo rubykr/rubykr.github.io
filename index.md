@@ -84,7 +84,7 @@ title: 루비 프로그래밍 언어 한글 문서
 ## 책
 {: #book}
 
-현재 루비 최신 버전은 2.1.x, 레일즈 최신 버전은 4.2 입니다. 루비는 1.9 이후 
+현재 루비 최신 버전은 2.2, 레일즈 최신 버전은 4.2 입니다. 루비는 2.0 이후
 버전, 레일즈는 3.0 이후 버전을 다루고 있는 책을 읽으시길 권해 드립니다.
 
 - 2014.11 루비로 배우는 객체지향 디자인
@@ -97,14 +97,14 @@ title: 루비 프로그래밍 언어 한글 문서
 - 2014.01 R과 Ruby를 활용한 데이터 해석 입문
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8965400546)
   [yes24](http://www.yes24.com/24/goods/11796950?scode=032&OzSrank=1)
-- 2012.11 루비 프로그래밍 언어 
+- 2012.11 루비 프로그래밍 언어
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8970507531)
   [yes24](http://www.yes24.com/24/goods/7980382?scode=032&amp;OzSrank=5)
-- 2012.05 레일스와 함께하는 애자일 웹 개발 - 4/E 
+- 2012.05 레일스와 함께하는 애자일 웹 개발 - 4/E
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8966260349)
   [yes24](http://www.yes24.com/24/goods/7097680?scode=032&amp;OzSrank=4)
   [ebook](http://ebook.insightbook.co.kr/ebooks/4fbad65fbf6e100370000002)
-- 2011.09 리팩토링 : 루비 에디션 
+- 2011.09 리팩토링 : 루비 에디션
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8994506063)
   [yes24](http://www.yes24.com/24/goods/5714409?scode=032&amp;OzSrank=6)
 
@@ -112,21 +112,21 @@ title: 루비 프로그래밍 언어 한글 문서
 {: #book-old}
 
 현재 루비 1.8, 레일즈 2는 지원이 끝난 상태이며 루비 1.9는 보안 유지보수 상태입니다. 아래에 있는
-책들은 루비 1.9 이전, 2 이전의 내용을 담고 있습니다. 기본적인 컨샙을
+책들은 루비 1.9 이전, 레일즈 2 이전의 내용을 담고 있습니다. 기본적인 컨샙을
 이해하는 데에는 무리가 없습니다만, 세세한 부분에서 차이가 있을 수 있습니다.
 가능하면 새로운 책을 읽으시는 걸 추천해 드립니다.
 
-- 2010.04 루비 프로그래밍 언어 
+- 2010.04 루비 프로그래밍 언어
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8979147384)
   [yes24](http://www.yes24.com/24/goods/3787559?scode=032&amp;OzSrank=8)
-- 2010.02 Ruby가 보이는 그림책 
+- 2010.02 Ruby가 보이는 그림책
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8931550685)
   [yes24](http://www.yes24.com/24/goods/3689449?scode=032&amp;OzSrank=3)
 - 2009.02 입문자를 위한 루비
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8990758424)
   [yes24](http://www.yes24.com/24/goods/3279711?scode=032&amp;OzSrank=9)
 - 2008.02 Beginning Ruby on Rails
-  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8956744181) 
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8956744181)
   [yes24](http://www.yes24.com/24/goods/2825095?scode=032&amp;OzSrank=12)
 - 2007.07 쉽게 배우는 JRuby on rails
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8995856459)
