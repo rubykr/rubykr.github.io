@@ -18,12 +18,12 @@ title: 루비 프로그래밍 언어 한글 문서
 - <span class='date'>2013.08.15</span> [<span class='tag'>번역</span> JOONJEONG : Ruby의 철학에 관한 마츠모토 유키히로의 인터뷰 Part 1](http://we.weirdmeetup.com/ruby의-철학에-관한-마츠모토-유키히로의-인터뷰-part-1/)
 - <span class='date'>2013.08.07</span> [Fl0wk27er : Ruby 와 Rails 배우고 싶을때](http://flowkater.github.io/blog/2013/08/07/ruby-and-rails-learning-resource/)
 - <span class='date'>2013.05.29</span> [Fl0wk27er : Ruby, Rails 스터디 이전 발표 자료](http://flowkater.github.io/blog/2013/05/29/be-a-rubyist-1-2/)
-- [(번역) 루비 20분 가이드](https://www.ruby-lang.org/ko/documentation/quickstart/)
-- [(번역) 다른 언어에서 루비로](https://www.ruby-lang.org/ko/documentation/ruby-from-other-languages/)
+- [<span class='tag'>번역</span> 루비 20분 가이드](https://www.ruby-lang.org/ko/documentation/quickstart/)
+- [<span class='tag'>번역</span> 다른 언어에서 루비로](https://www.ruby-lang.org/ko/documentation/ruby-from-other-languages/)
 - [생활코딩 : 루비](http://opentutorials.org/course/742/4554)
-- [Joinc : 루비 언어 튜토리얼](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Ruby/Tutorial01)
-- [(번역) nacyot : 알아두면 도움이 되는 55가지 루비 기법](https://gist.github.com/nacyot/7624036)
-- [(번역) dalzony : 루비 스타일 가이드](https://github.com/dalzony/ruby-style-guide/blob/master/README-koKR.md)
+- [Joinc : Ruby](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Ruby)
+- [<span class='tag'>번역</span> nacyot : 알아두면 도움이 되는 55가지 루비 기법](https://gist.github.com/nacyot/7624036)
+- [<span class='tag'>번역</span> dalzony : 루비 스타일 가이드](https://github.com/dalzony/ruby-style-guide/blob/master/README-koKR.md)
 
 ## 루비 온 레일즈(Ruby on Rails)
 {: #rails}
