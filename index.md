@@ -79,6 +79,7 @@ title: 루비 프로그래밍 언어 한글 문서
 ## 블로그 / 사이트
 {: #blog}
 
+- [루비 공식 사이트](https://www.ruby-lang.org/ko/)
 - [HappyRails](http://happyrails.rorlab.org/ko)
 - [Remotty Tech Blog](http://blog.remotty.com)
 - [ROR Lab.](http://rorlab.org/)
@@ -159,4 +160,3 @@ Ruby Korea 그룹에서는 루비와 관련된 문서를 작성하고, 좋은 �
 
 - [Github Ruby-Korea Organization](https://github.com/ruby-korea)
 - [Facebook Ruby Korea Group](https://www.facebook.com/groups/rubykr)
-- [루비 공식 홈페이지 문서](https://www.ruby-lang.org/ko/documentation/)
