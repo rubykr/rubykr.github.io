@@ -39,7 +39,7 @@ title: 루비 프로그래밍 언어 한글 문서
 {: #gem}
 
 - <span class='date'>2014.12.19</span> [<span class='tag'>번역</span> marocchino : Hashie는 위험해요 - 해쉬와 OpenStruct를 위한 송시](https://dayone.me/18pYzZD)
-- <span class='date'>2014.12.18</span> [marocchino : capistrano, fig 배포하기](https://dayone.me/18pYzZD)
+- <span class='date'>2014.12.18</span> [marocchino : capistrano, fig 배포하기](https://dayone.me/1767zVi)
 - <span class='date'>2013.12.30</span> [<span class='tag'>번역</span> gosoochaja : Padrino Blog Tutorial](http://blog.baenlee.com/blog/2013/12/30/bundle-exec-padrino-g-project/)
 - [<span class='tag'>번역</span> 지킬(jekyll)](http://svperstarz.github.io/jekyll-docs-ko/)
 - [<span class='tag'>번역</span> 시나트라(sinatra)](http://www.sinatrarb.com/intro-ko.html)
