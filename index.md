@@ -7,7 +7,7 @@ title: 루비 프로그래밍 언어 한글 문서
 
 - 최종 수정일: {{site.time | date: "%Y-%m-%d"}}
 
-## 루비(Ruby) 프로그래밍 언어
+## [루비(Ruby) 프로그래밍 언어](#ruby)
 {: #ruby}
 
 - <span class='date'>2014.04.19</span> [nacyot : 루비의 꽃, 열거자 Enumerable 모듈](http://blog.nacyot.com/articles/2014-04-19-ruby-enumerable/)
@@ -25,7 +25,7 @@ title: 루비 프로그래밍 언어 한글 문서
 - [<span class='tag'>번역</span> nacyot : 알아두면 도움이 되는 55가지 루비 기법](https://gist.github.com/nacyot/7624036)
 - [<span class='tag'>번역</span> dalzony : 루비 스타일 가이드](https://github.com/dalzony/ruby-style-guide/blob/master/README-koKR.md)
 
-## 루비 온 레일즈(Ruby on Rails)
+## [루비 온 레일즈(Ruby on Rails)](#rails)
 {: #rails}
 
 - <span class='date'>2014.02.01</span> [subicura : AngularJS + Rails 프로젝트 구성](http://blog.remotty.com/blog/2014/02/01/angularjs-plus-rails-peurojegteu-guseong/)
@@ -35,7 +35,7 @@ title: 루비 프로그래밍 언어 한글 문서
 - [Lucius Choi : Devise 젬 파헤치기](https://www.gitbook.io/book/luciuschoi/exploring_devise)
 - [Lucius Choi : FoundBlog 따라하기](https://www.gitbook.io/book/luciuschoi/foundblog)
 
-## 젬(Gem)
+## [젬(Gem)](#gem)
 {: #gem}
 
 - <span class='date'>2014.12.19</span> [<span class='tag'>번역</span> marocchino : Hashie는 위험해요 - 해쉬와 OpenStruct를 위한 송시](https://dayone.me/18pYzZD)
@@ -45,7 +45,7 @@ title: 루비 프로그래밍 언어 한글 문서
 - [<span class='tag'>번역</span> 시나트라(sinatra)](http://www.sinatrarb.com/intro-ko.html)
 - [<span class='tag'>번역</span> 번들러(Bundler)](http://ruby-korea.github.io/bundler-site/)
 
-## 테스트
+## [테스트](#testing)
 {: #testing}
 
 - <span class='date'>2013.10.02</span> [nacyot : Rspec과 Guard를 활용한 루비 테스트 자동화](http://blog.nacyot.com/articles/2013-10-02-ruby-test-automation-with-rspec-and-guard/)
@@ -53,7 +53,7 @@ title: 루비 프로그래밍 언어 한글 문서
 - <span class='date'>2013.04.07</span> [nacyot : 루비 테스트 프레임워크 RSpec 2.14 매쳐(Matchers)](http://blog.nacyot.com/articles/2014-04-07-rspec-matchers/)
 - [<span class='tag'>번역</span> Better Specs](http://betterspecs.org/ko)
 
-## 루비모션(RubyMotion)
+## [루비모션(RubyMotion)](#rubymotion)
 {: #rubymotion}
 
 - <span class='tag'>번역</span> RubyMotion 공식 문서
@@ -65,7 +65,7 @@ title: 루비 프로그래밍 언어 한글 문서
     - [Writing Tests for RubyMotion Apps](http://ruby-korea.github.io/RubyMotionDocumentation/articles/testing/)
     - [Debugging RubyMotion applications](http://ruby-korea.github.io/RubyMotionDocumentation/articles/debugging/)
 
-## 동영상
+## [동영상](#movie-clip)
 {: #movie-clip}
 
 - <span class='date'>2013.08.18</span> [김성준 : Zero to Pinterest UI(Dev.Study.Archive)](http://dev-study.github.io/presentations/zero_to_pinterent_ui.html)
@@ -76,7 +76,7 @@ title: 루비 프로그래밍 언어 한글 문서
 - [RORLab Podcasts](https://itunes.apple.com/cy/podcast/rorlab-podcast/id770036911)
 - [Ashal JOKER : Coding Life](http://www.youtube.com/playlist?list=PLbdtsbZUwdeSAjccModOzFREAyX9W4Jh-)
 
-## 블로그 / 사이트
+## [블로그 / 사이트](#blog)
 {: #blog}
 
 - [루비 공식 사이트](https://www.ruby-lang.org/ko/)
@@ -86,7 +86,7 @@ title: 루비 프로그래밍 언어 한글 문서
 - [이상한 모임](http://we.weirdmeetup.com/tag/ruby/)
 - [nacyot](http://blog.nacyot.com/tags/ruby/)
 
-## 책
+## [책](#book)
 {: #book}
 
 현재 루비 최신 버전은 2.2, 레일즈 최신 버전은 4.2 입니다. 루비는 2.0 이후
@@ -113,7 +113,7 @@ title: 루비 프로그래밍 언어 한글 문서
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8994506063)
   [yes24](http://www.yes24.com/24/goods/5714409?scode=032&amp;OzSrank=6)
 
-### 오래된 책들
+### [오래된 책들](#book-old)
 {: #book-old}
 
 현재 루비 1.8, 레일즈 2는 지원이 끝난 상태이며 루비 1.9는 보안 유지보수 상태입니다. 아래에 있는

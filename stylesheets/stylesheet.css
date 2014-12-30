@@ -130,6 +130,10 @@ footer p {
   color: #f2f2f2;
 }
 
+h2 a, h3 a {
+  color: #444;
+}
+
 a {
   text-decoration: none;
   color: #007edf;
