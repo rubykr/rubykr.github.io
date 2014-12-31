@@ -28,6 +28,7 @@ title: 루비 프로그래밍 언어 한글 문서
 ## [루비 온 레일즈(Ruby on Rails)](#rails)
 {: #rails}
 
+- <span class='date'>2014.12.31</span> [<span class='tag'>번역</span> marocchino : 빨리 알았으면 좋았을 뻔한 레일즈 기술](https://dayone.me/1ajvzWC)
 - <span class='date'>2014.02.01</span> [subicura : AngularJS + Rails 프로젝트 구성](http://blog.remotty.com/blog/2014/02/01/angularjs-plus-rails-peurojegteu-guseong/)
 - <span class='date'>2013.08.12</span> [<span class='tag'>번역</span> Fl0wk27er : 루비 온 레일스 아키텍처 디자인](http://flowkater.github.io/blog/2013/08/12/rails-architecture/)
 - <span class='tag'>번역</span> 레일즈 가이드 [RubyKr](http://rorlab.org/rg/index.html) [ROR Lab](http://rubykr.github.io/rails_guides/)
