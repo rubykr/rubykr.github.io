@@ -52,6 +52,7 @@ title: 루비 프로그래밍 언어 한글 문서
 - <span class='date'>2013.10.02</span> [nacyot : Rspec과 Guard를 활용한 루비 테스트 자동화](http://blog.nacyot.com/articles/2013-10-02-ruby-test-automation-with-rspec-and-guard/)
 - <span class='date'>2013.04.25</span> [<span class='tag'>번역</span> yisangwook : - TDD는 죽었다 - Rails를 만든 DHH의 글](http://yisangwook.tumblr.com/post/83725422949/tdd-is-dead-long-live-testing)
 - <span class='date'>2013.04.07</span> [nacyot : 루비 테스트 프레임워크 RSpec 2.14 매쳐(Matchers)](http://blog.nacyot.com/articles/2014-04-07-rspec-matchers/)
+- <span class='date'>2013.03.24</span> [<span class='tag'>번역</span> marocchino : 분산 테스트 실행 시스템 RRRSpec을 출시하였습니다.](https://gist.github.com/marocchino/9738532)
 - [<span class='tag'>번역</span> Better Specs](http://betterspecs.org/ko)
 
 ## [루비모션(RubyMotion)](#rubymotion)
