@@ -12,7 +12,7 @@ title: 루비 프로그래밍 언어 한글 문서
 
 - [빨리 알았으면 좋았을 뻔한 레일즈 기술](https://dayone.me/1ajvzWC){: .article data-tags="translated rails" data-author="marocchino" data-date="2014.12.31"}
 - [Hashie는 위험해요 - 해쉬와 OpenStruct를 위한 송시](https://dayone.me/18pYzZD){: .article data-tags="translated gem" data-author="marocchino" data-date="2014.12.19"}
-- [capistrano, fig 배포하기](https://dayone.me/1767zVi){: .article data-tags="gem" data-author="marocchino" data-date="2014.12.18"}
+- [capistrano, fig 배포하기](https://dayone.me/1767zVi){: .article data-tags="ci" data-author="marocchino" data-date="2014.12.18"}
 - [루비의 꽃, 열거자 Enumerable 모듈](http://blog.nacyot.com/articles/2014-04-19-ruby-enumerable/){: .article data-tags="ruby" data-author="nacyot" data-date="2014.04.19"}
 - [쿡패드(Cookpad) 루비 스타일 가이드](http://blog.nacyot.com/articles/2014-03-23-cookpad-ruby-styleguide/){: .article data-tags="translated ruby" data-author="nacyot" data-date="2014.03.23"}
 - [‘루비’의 아빠, 마츠모토 유키히로](http://www.bloter.net/archives/184564){: .article data-tags="ruby" data-author="블로터" data-date="2014.03.12"}
@@ -33,7 +33,7 @@ title: 루비 프로그래밍 언어 한글 문서
 ## [동영상](#movies)
 {: #movies}
 
-- [Zero to Pinterest UI(Dev.Study.Archive)](http://dev-study.github.io/presentations/zero_to_pinterent_ui.html){: .article data-tags="rails movie" data-author="김성준" data-date="2013.08.18"}
+- [Zero to Pinterest UI(Dev.Study.Archive)](http://dev-study.github.io/presentations/zero_to_pinterent_ui.html){: .article data-tags="rails" data-author="김성준" data-date="2013.08.18"}
 - [루비 기본 100분](http://www.youtube.com/watch?v=vjyL6fLzJjA){: .article data-tags="ruby" data-author="서동주" data-date="2013.01.19"}
 - [Instant Prototyping with Ruby on Rails(H3 2012)](http://www.youtube.com/watch?v=AlNLavCg3yg){: .article data-tags="rails" data-author="최명진" data-date="2012.11.13"}
 - [Open API 와 Ruby on Rails 에 대한 이야기(H3 2012)](http://www.youtube.com/watch?v=fAi0PC0v5OQ){: .article data-tags="rails" data-author="조범석" data-date="2012.11.13"}
@@ -64,7 +64,7 @@ title: 루비 프로그래밍 언어 한글 문서
 - [지킬(jekyll)](http://svperstarz.github.io/jekyll-docs-ko/){: .article data-tags="translated gem"}
 - [시나트라(sinatra)](http://www.sinatrarb.com/intro-ko.html){: .article data-tags="translated gem"}
 - [번들러(Bundler)](http://ruby-korea.github.io/bundler-site/){: .article data-tags="translated gem"}
-- <span class='tag'>번역</span> RubyMotion 공식 문서
+- RubyMotion 공식 문서 [ ](#){: .article data-tags="translated rubymotion"}
   - Articles
     - [Use CocoaPods Dependencies in RubyMotion Apps](http://ruby-korea.github.io/RubyMotionDocumentation/articles/cocoapods/)
     - [Submit RubyMotion Apps to TestFlight](http://ruby-korea.github.io/RubyMotionDocumentation/articles/testflight/)
@@ -81,30 +81,30 @@ title: 루비 프로그래밍 언어 한글 문서
 버전, 레일즈는 3.0 이후 버전을 다루고 있는 책을 읽으시길 권해 드립니다.
 
 - 루비로 배우는 객체지향 디자인
-  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=896626123X){: .article data-tags="translated" data-date="2014.11"}
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=896626123X){: .article data-tags="translated ruby oop" data-date="2014.11"}
   [yes24](http://www.yes24.com/24/Goods/15254976?Acode=101)
   [ebook](http://ebook.insightbook.co.kr/ebooks/5490f4d9bf6e107fd3000008)
 - 루비를 깨우치다
-  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8994774769){: .article data-tags="translated" data-date="2014.08"}
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8994774769){: .article data-tags="translated ruby-core" data-date="2014.08"}
   [yes24](http://www.yes24.com/24/goods/14163047?scode=032&OzSrank=1)
 - Devise 젬 파헤치기
-  [ebook](https://www.gitbook.io/book/luciuschoi/exploring_devise){: .article data-date="2014.06"}
+  [ebook](https://www.gitbook.io/book/luciuschoi/exploring_devise){: .article data-tags="translated gem" data-date="2014.06"}
 - FoundBlog 따라하기
-  [ebook](https://www.gitbook.io/book/luciuschoi/foundblog){: .article data-date="2014.06"}
+  [ebook](https://www.gitbook.io/book/luciuschoi/foundblog){: .article data-tags="translated rails" data-date="2014.06"}
 - 초보자를 위한 레일스 가이드북
-  [ebook](https://www.gitbook.io/book/rorlab/railsguidebook){: .article data-date="2014.04"}
+  [ebook](https://www.gitbook.io/book/rorlab/railsguidebook){: .article data-tags="translated rails ci" data-date="2014.04"}
 - R과 Ruby를 활용한 데이터 해석 입문
-  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8965400546){: .article data-tags="translated" data-date="2014.01"}
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8965400546){: .article data-tags="translated ruby data-science" data-date="2014.01"}
   [yes24](http://www.yes24.com/24/goods/11796950?scode=032&OzSrank=1)
 - 루비 프로그래밍 언어
-  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8970507531){: .article data-tags="translated" data-date="2012.11"}
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8970507531){: .article data-tags="translated ruby" data-date="2012.11"}
   [yes24](http://www.yes24.com/24/goods/7980382?scode=032&amp;OzSrank=5)
 - 레일스와 함께하는 애자일 웹 개발 - 4/E
-  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8966260349){: .article data-tags="translated" data-date="2012.05"}
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8966260349){: .article data-tags="translated rails" data-date="2012.05"}
   [yes24](http://www.yes24.com/24/goods/7097680?scode=032&amp;OzSrank=4)
   [ebook](http://ebook.insightbook.co.kr/ebooks/4fbad65fbf6e100370000002)
 - 리팩토링 : 루비 에디션
-  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8994506063){: .article data-tags="translated" data-date="2011.09"}
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8994506063){: .article data-tags="translated ruby refactoring" data-date="2011.09"}
   [yes24](http://www.yes24.com/24/goods/5714409?scode=032&amp;OzSrank=6)
 
 ### [오래된 책들](#book-old)
@@ -116,31 +116,31 @@ title: 루비 프로그래밍 언어 한글 문서
 가능하면 새로운 책을 읽으시는 걸 추천해 드립니다.
 
 - 루비 프로그래밍 언어
-  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8979147384){: .article data-tags="translated" data-date="2010.04"}
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8979147384){: .article data-tags="translated ruby" data-date="2010.04"}
   [yes24](http://www.yes24.com/24/goods/3787559?scode=032&amp;OzSrank=8)
 - Ruby가 보이는 그림책
-  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8931550685){: .article data-tags="translated" data-date="2010.02"}
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8931550685){: .article data-tags="translated ruby" data-date="2010.02"}
   [yes24](http://www.yes24.com/24/goods/3689449?scode=032&amp;OzSrank=3)
 - 입문자를 위한 루비
-  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8990758424){: .article data-tags="translated" data-date="2009.02"}
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8990758424){: .article data-tags="translated ruby" data-date="2009.02"}
   [yes24](http://www.yes24.com/24/goods/3279711?scode=032&amp;OzSrank=9)
 - Beginning Ruby on Rails
-  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8956744181){: .article data-tags="translated" data-date="2008.02"}
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8956744181){: .article data-tags="translated rails" data-date="2008.02"}
   [yes24](http://www.yes24.com/24/goods/2825095?scode=032&amp;OzSrank=12)
 - 쉽게 배우는 JRuby on rails
-  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8995856459){: .article data-tags="translated" data-date="2007.07"}
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8995856459){: .article data-tags="translated rails" data-date="2007.07"}
 - 레일스를 위한 루비
-  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8990758688){: .article data-tags="translated" data-date="2007.05"}
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8990758688){: .article data-tags="translated ruby" data-date="2007.05"}
   [yes24](http://www.yes24.com/24/goods/2539575?scode=032&amp;OzSrank=10)
 - 웹 개발 2.0 루비 온 레일스
-  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8960770000){: .article data-tags="translated" data-date="2007.03"}
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8960770000){: .article data-tags="translated rails" data-date="2007.03"}
   [yes24](http://www.yes24.com/24/goods/2495263?scode=032&amp;OzSrank=11)
 - Programming Ruby 프로그래밍 루비 - 전2권
-  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8991268250){: .article data-tags="translated" data-date="2007.02"}
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8991268250){: .article data-tags="translated rails" data-date="2007.02"}
   [yes24](http://www.yes24.com/24/goods/2314079?scode=032&amp;OzSrank=15)
   [ebook](http://ebook.insightbook.co.kr/ebooks/4fbad6dcbf6e1002ed000007)
 - Ruby on Rails- 초고속 웹 개발의 시작
-  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8979144539){: .article data-tags="translated" data-date="2006.11"}
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8979144539){: .article data-tags="translated rails" data-date="2006.11"}
   [yes24](http://www.yes24.com/24/goods/2296786?scode=032&amp;OzSrank=14)
 
 ## 기여하기

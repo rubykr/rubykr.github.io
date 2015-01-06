@@ -77,6 +77,24 @@ table {
   text-decoration: none;
   white-space: nowrap;
 }
+.tag-ruby {
+  background-color: #DF0005;
+}
+.tag-rails {
+  background-color: #A70008;
+}
+.tag-gem {
+  background-color: #FD4024;
+}
+.tag-ci {
+  background-color: #1F173A;
+}
+.tag-test {
+  background-color: #3D921F;
+}
+.tag-disable {
+  background-color: #aaa;
+}
 
 /*******************************************************************************
 Theme Styles
