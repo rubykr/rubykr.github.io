@@ -1,35 +1,34 @@
-(function() {
-  var print = {
-    date: function(date) {
+(function () {
+  'use strict';
+  var print, renderData, articles, tagFilter, storedHash;
+  print = {
+    date: function (date) {
       if (!date) {
         return '';
-      } else {
-        return '<span class="date">' + date + '</span>';
       }
+      return '<span class="date">' + date + '</span>';
     },
-    tags: function(tags) {
+    tags: function (tags) {
       if (!tags) {
         return '';
-      } else {
-        return tags.split(" ").map(function(tag) {
-          var trans = { translated: "번역", movie: "동영상" };
-          return '<a href="#' + tag + '" class="tag tag-' + tag + '">' + (trans[tag] || tag) + '</a>';
-        }).join(" ");
       }
+      return tags.split(" ").map(function (tag) {
+        var trans = { translated: "번역", movie: "동영상" };
+        return '<a href="#' + tag + '" class="tag tag-' + tag + '">' + (trans[tag] || tag) + '</a>';
+      }).join(" ");
     },
-    author: function(author) {
+    author: function (author) {
       if (!author) {
         return '';
-      } else {
-        return '<span class="author">by ' + author + '</span>';
       }
+      return '<span class="author">by ' + author + '</span>';
     }
   };
-
-  var renderData = function(links) {
-    for (var i = 0, l = links.length; i < l; i ++) {
-      var link = links[i];
-      var li = link.parentElement;
+  renderData = function (links) {
+    var i, l, link, li;
+    for (i = 0, l = links.length; i < l; i += 1) {
+      link = links[i];
+      li = link.parentElement;
       li.innerHTML = [
         print.date(link.dataset.date),
         print.tags(link.dataset.tags),
@@ -38,60 +37,57 @@
       ].join(" ");
     }
   };
-
-  var articles = document.getElementsByClassName("article");
-  renderData(articles);
-
-  var tagFilter = function(tagName) {
-    var tagLinks = document.getElementById("tags").children;
-    var tags = [];
-    for (var i = 0, l = tagLinks.length; i < l; i ++) {
-      var tagLink = tagLinks[i];
+  articles = document.getElementsByClassName("article");
+  tagFilter = function (tagName) {
+    var tagLinks, tags, i, l, tagLink, article, li, articleTags;
+    tagLinks = document.getElementById("tags").children;
+    tags = [];
+    for (i = 0, l = tagLinks.length; i < l; i += 1) {
+      tagLink = tagLinks[i];
       tags.push(tagLink.dataset.name);
     }
     tagName = tagName.slice(1);
     if (tags.indexOf(tagName) > -1) {
-      console.log("eisxt");
-      for (var i = 0, l = tagLinks.length; i < l; i ++) {
-        var tagLink = tagLinks[i];
-        if (tagName == tagLink.dataset.name) {
+      for (i = 0, l = tagLinks.length; i < l; i += 1) {
+        tagLink = tagLinks[i];
+        if (tagName === tagLink.dataset.name) {
           tagLink.className = "tag tag-" + tagLink.dataset.name;
         } else {
           tagLink.className = "tag tag-disable";
         }
       }
-      for (var i = 0, l = articles.length; i < l; i ++) {
-        var article = articles[i];
-        var li = article.parentElement;
-        var articleTags = article.dataset.tags;
+      for (i = 0, l = articles.length; i < l; i += 1) {
+        article = articles[i];
+        li = article.parentElement;
+        articleTags = article.dataset.tags;
         li.hidden = !(articleTags && articleTags.split(" ").indexOf(tagName) > -1);
       }
     } else {
-      console.log("no");
-      for (var i = 0, l = tagLinks.length; i < l; i ++) {
-        var tagLink = tagLinks[i];
+      for (i = 0, l = tagLinks.length; i < l; i += 1) {
+        tagLink = tagLinks[i];
         tagLink.className = "tag tag-" + tagLink.dataset.name;
       }
-      for (var i = 0, l = articles.length; i < l; i ++) {
-        var article = articles[i];
-        var li = article.parentElement;
+      for (i = 0, l = articles.length; i < l; i += 1) {
+        article = articles[i];
+        li = article.parentElement;
         li.hidden = false;
       }
     }
   };
 
-  if ("onhashchange" in window) { // event supported?
+  if (window.hasOwnProperty("onhashchange")) { // event supported?
     window.onhashchange = function () {
       tagFilter(window.location.hash);
-    }
+    };
   } else { // event not supported:
-    var storedHash = window.location.hash;
+    storedHash = window.location.hash;
     window.setInterval(function () {
-      if (window.location.hash != storedHash) {
+      if (window.location.hash !== storedHash) {
         storedHash = window.location.hash;
         tagFilter(storedHash);
       }
     }, 100);
   }
+  renderData(articles);
   tagFilter(window.location.hash);
 })();
