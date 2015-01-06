@@ -7,53 +7,70 @@ title: 루비 프로그래밍 언어 한글 문서
 
 - 최종 수정일: {{site.time | date: "%Y-%m-%d"}}
 
+# 블로그 글
+
+- <span class='date'>2014.12.31</span> <span class='tag'>번역</span> <span class='tag'>rails</span> [marocchino : 빨리 알았으면 좋았을 뻔한 레일즈 기술](https://dayone.me/1ajvzWC)
+- <span class='date'>2014.12.19</span> <span class='tag'>번역</span> <span class='tag'>gem</span> [marocchino : Hashie는 위험해요 - 해쉬와 OpenStruct를 위한 송시](https://dayone.me/18pYzZD)
+- <span class='date'>2014.12.18</span> <span class='tag'>gem</span> [marocchino : capistrano, fig 배포하기](https://dayone.me/1767zVi)
+- <span class='date'>2014.04.19</span> <span class='tag'>ruby</span> [nacyot : 루비의 꽃, 열거자 Enumerable 모듈](http://blog.nacyot.com/articles/2014-04-19-ruby-enumerable/)
+- <span class='date'>2014.03.23</span> <span class='tag'>번역</span> <span class='tag'>ruby</span> [nacyot : 쿡패드(Cookpad) 루비 스타일 가이드](http://blog.nacyot.com/articles/2014-03-23-cookpad-ruby-styleguide/)
+- <span class='date'>2014.03.12</span> <span class='tag'>ruby</span> [블로터 : ‘루비’의 아빠, 마츠모토 유키히로](http://www.bloter.net/archives/184564)
+- <span class='date'>2014.02.01</span> <span class='tag'>rails</span> [subicura : AngularJS + Rails 프로젝트 구성](http://blog.remotty.com/blog/2014/02/01/angularjs-plus-rails-peurojegteu-guseong/)
+- <span class='date'>2013.12.30</span> <span class='tag'>번역</span> <span class='tag'>gem</span> [gosoochaja : Padrino Blog Tutorial](http://blog.baenlee.com/blog/2013/12/30/bundle-exec-padrino-g-project/)
+- <span class='date'>2013.12.04</span> <span class='tag'>ruby</span> [Bigmatch : 맨붕없이 RVM과 루비 설치하기](http://bigmatch.i-um.net/2013/12/%EB%A9%98%EB%B6%95%EC%97%86%EC%9D%B4-rvm%EA%B3%BC-%EB%A3%A8%EB%B9%84-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
+- <span class='date'>2013.10.02</span> <span class='tag'>test</span> [nacyot : Rspec과 Guard를 활용한 루비 테스트 자동화](http://blog.nacyot.com/articles/2013-10-02-ruby-test-automation-with-rspec-and-guard/)
+- <span class='date'>2013.09.02</span> <span class='tag'>ruby</span> [JOONJEONG : Thinking about Ruby’s Class Declaration Syntax, Object Creation Mechanism](http://we.weirdmeetup.com/thinking-about-rubys-class-declaration-syntax-object-creation-mechanism/)
+- <span class='date'>2013.08.18</span> <span class='tag'>rails</span> <span class='tag'>동영상</span> [김성준 : Zero to Pinterest UI(Dev.Study.Archive)](http://dev-study.github.io/presentations/zero_to_pinterent_ui.html)
+- <span class='date'>2013.08.15</span> <span class='tag'>ruby</span> <span class='tag'>번역</span> [JOONJEONG : Ruby의 철학에 관한 마츠모토 유키히로의 인터뷰 Part 1](http://we.weirdmeetup.com/ruby의-철학에-관한-마츠모토-유키히로의-인터뷰-part-1/)
+- <span class='date'>2013.08.12</span> <span class='tag'>번역</span> <span class='tag'>rails</span> [Fl0wk27er : 루비 온 레일스 아키텍처 디자인](http://flowkater.github.io/blog/2013/08/12/rails-architecture/)
+- <span class='date'>2013.08.07</span> <span class='tag'>ruby</span> <span class='tag'>rails</span> [Fl0wk27er : Ruby 와 Rails 배우고 싶을때](http://flowkater.github.io/blog/2013/08/07/ruby-and-rails-learning-resource/)
+- <span class='date'>2013.05.29</span> <span class='tag'>ruby</span> <span class='tag'>rails</span> [Fl0wk27er : Ruby, Rails 스터디 이전 발표 자료](http://flowkater.github.io/blog/2013/05/29/be-a-rubyist-1-2/)
+- <span class='date'>2013.04.25</span> <span class='tag'>번역</span>  <span class='tag'>test</span> [yisangwook : - TDD는 죽었다 - Rails를 만든 DHH의 글](http://yisangwook.tumblr.com/post/83725422949/tdd-is-dead-long-live-testing)
+- <span class='date'>2013.04.07</span> <span class='tag'>test</span> [nacyot : 루비 테스트 프레임워크 RSpec 2.14 매쳐(Matchers)](http://blog.nacyot.com/articles/2014-04-07-rspec-matchers/)
+- <span class='date'>2013.03.24</span> <span class='tag'>test</span> <span class='tag'>번역</span> [marocchino : 분산 테스트 실행 시스템 RRRSpec을 출시하였습니다.](https://gist.github.com/marocchino/9738532)
+- <span class='date'>2013.01.19</span> <span class='tag'>ruby</span> <span class='tag'>동영상</span> [서동주 : 루비 기본 100분](http://www.youtube.com/watch?v=vjyL6fLzJjA)
+- <span class='date'>2012.11.13</span> <span class='tag'>rails</span> <span class='tag'>동영상</span> [최명진 : Instant Prototyping with Ruby on Rails(H3 2012)](http://www.youtube.com/watch?v=AlNLavCg3yg)
+- <span class='date'>2012.11.13</span> <span class='tag'>rails</span> <span class='tag'>동영상</span> [조범석 : Open API 와 Ruby on Rails 에 대한 이야기(H3 2012)](http://www.youtube.com/watch?v=fAi0PC0v5OQ)
+- <span class='date'>2012.09.27</span> <span class='tag'>ruby</span> <span class='tag'>동영상</span> [문추근 : 루비는 패셔니스타(Deview 2012)](http://deview.kr/2012/xe/index.php?mid=track&document_srl=391&time_srl=233)
+
 ## [루비(Ruby) 프로그래밍 언어](#ruby)
 {: #ruby}
 
-- <span class='date'>2014.04.19</span> [nacyot : 루비의 꽃, 열거자 Enumerable 모듈](http://blog.nacyot.com/articles/2014-04-19-ruby-enumerable/)
-- <span class='date'>2014.03.23</span> [<span class='tag'>번역</span> nacyot : 쿡패드(Cookpad) 루비 스타일 가이드](http://blog.nacyot.com/articles/2014-03-23-cookpad-ruby-styleguide/)
-- <span class='date'>2014.03.12</span> [블로터 : ‘루비’의 아빠, 마츠모토 유키히로](http://www.bloter.net/archives/184564)
-- <span class='date'>2013.12.04</span> [Bigmatch : 맨붕없이 RVM과 루비 설치하기](http://bigmatch.i-um.net/2013/12/%EB%A9%98%EB%B6%95%EC%97%86%EC%9D%B4-rvm%EA%B3%BC-%EB%A3%A8%EB%B9%84-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
-- <span class='date'>2013.09.02</span> [Thinking about Ruby’s Class Declaration Syntax, Object Creation Mechanism](http://we.weirdmeetup.com/thinking-about-rubys-class-declaration-syntax-object-creation-mechanism/)
-- <span class='date'>2013.08.15</span> [<span class='tag'>번역</span> JOONJEONG : Ruby의 철학에 관한 마츠모토 유키히로의 인터뷰 Part 1](http://we.weirdmeetup.com/ruby의-철학에-관한-마츠모토-유키히로의-인터뷰-part-1/)
-- <span class='date'>2013.08.07</span> [Fl0wk27er : Ruby 와 Rails 배우고 싶을때](http://flowkater.github.io/blog/2013/08/07/ruby-and-rails-learning-resource/)
-- <span class='date'>2013.05.29</span> [Fl0wk27er : Ruby, Rails 스터디 이전 발표 자료](http://flowkater.github.io/blog/2013/05/29/be-a-rubyist-1-2/)
-- [<span class='tag'>번역</span> 루비 20분 가이드](https://www.ruby-lang.org/ko/documentation/quickstart/)
-- [<span class='tag'>번역</span> 다른 언어에서 루비로](https://www.ruby-lang.org/ko/documentation/ruby-from-other-languages/)
-- [생활코딩 : 루비](http://opentutorials.org/course/742/4554)
+- <span class='tag'>번역</span> [루비 공식 사이트](https://www.ruby-lang.org/ko/)
+  - [문서](https://www.ruby-lang.org/ko/documentation/)
+    - [루비 20분 가이드](https://www.ruby-lang.org/ko/documentation/quickstart/)
+    - [다른 언어에서 루비로](https://www.ruby-lang.org/ko/documentation/ruby-from-other-languages/)
+    - [설치하기](https://www.ruby-lang.org/ko/documentation/installation/)
+  - [라이브러리(젬)](https://www.ruby-lang.org/ko/libraries/)
+  - [뉴스](https://www.ruby-lang.org/ko/news/)
+- <span class='tag'>번역</span> [dalzony : 루비 스타일 가이드](https://github.com/dalzony/ruby-style-guide/blob/master/README-koKR.md)
+- <span class='tag'>번역</span> [nacyot : 알아두면 도움이 되는 55가지 루비 기법](https://gist.github.com/nacyot/7624036)
 - [Joinc : Ruby](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Ruby)
-- [<span class='tag'>번역</span> nacyot : 알아두면 도움이 되는 55가지 루비 기법](https://gist.github.com/nacyot/7624036)
-- [<span class='tag'>번역</span> dalzony : 루비 스타일 가이드](https://github.com/dalzony/ruby-style-guide/blob/master/README-koKR.md)
+- [이상한 모임 : 루비](http://we.weirdmeetup.com/tag/ruby/)
+- [생활코딩 : 루비](http://opentutorials.org/course/742/4554)
 
 ## [루비 온 레일즈(Ruby on Rails)](#rails)
 {: #rails}
 
-- <span class='date'>2014.12.31</span> [<span class='tag'>번역</span> marocchino : 빨리 알았으면 좋았을 뻔한 레일즈 기술](https://dayone.me/1ajvzWC)
-- <span class='date'>2014.02.01</span> [subicura : AngularJS + Rails 프로젝트 구성](http://blog.remotty.com/blog/2014/02/01/angularjs-plus-rails-peurojegteu-guseong/)
-- <span class='date'>2013.08.12</span> [<span class='tag'>번역</span> Fl0wk27er : 루비 온 레일스 아키텍처 디자인](http://flowkater.github.io/blog/2013/08/12/rails-architecture/)
-- <span class='tag'>번역</span> 레일즈 가이드 [RubyKr](http://rorlab.org/rg/index.html) [ROR Lab](http://rubykr.github.io/rails_guides/)
-- [rorlab : 초보자를 위한 레일스 가이드북](https://www.gitbook.io/book/rorlab/railsguidebook)
-- [Lucius Choi : Devise 젬 파헤치기](https://www.gitbook.io/book/luciuschoi/exploring_devise)
-- [Lucius Choi : FoundBlog 따라하기](https://www.gitbook.io/book/luciuschoi/foundblog)
+- <span class='tag'>번역</span> 레일즈 가이드
+  [RubyKr](http://rorlab.org/rg/index.html)
+  [ROR Lab](http://rubykr.github.io/rails_guides/)
+- [ROR Lab.](http://rorlab.org/)
+  - [HappyRails](http://happyrails.rorlab.org/ko)
+  - <span class='tag'>동영상</span> [RORLab Podcasts](https://itunes.apple.com/cy/podcast/rorlab-podcast/id770036911)
 
 ## [젬(Gem)](#gem)
 {: #gem}
 
-- <span class='date'>2014.12.19</span> [<span class='tag'>번역</span> marocchino : Hashie는 위험해요 - 해쉬와 OpenStruct를 위한 송시](https://dayone.me/18pYzZD)
-- <span class='date'>2014.12.18</span> [marocchino : capistrano, fig 배포하기](https://dayone.me/1767zVi)
-- <span class='date'>2013.12.30</span> [<span class='tag'>번역</span> gosoochaja : Padrino Blog Tutorial](http://blog.baenlee.com/blog/2013/12/30/bundle-exec-padrino-g-project/)
-- [<span class='tag'>번역</span> 지킬(jekyll)](http://svperstarz.github.io/jekyll-docs-ko/)
-- [<span class='tag'>번역</span> 시나트라(sinatra)](http://www.sinatrarb.com/intro-ko.html)
-- [<span class='tag'>번역</span> 번들러(Bundler)](http://ruby-korea.github.io/bundler-site/)
+- <span class='tag'>번역</span> [지킬(jekyll)](http://svperstarz.github.io/jekyll-docs-ko/)
+- <span class='tag'>번역</span> [시나트라(sinatra)](http://www.sinatrarb.com/intro-ko.html)
+- <span class='tag'>번역</span> [번들러(Bundler)](http://ruby-korea.github.io/bundler-site/)
 
 ## [테스트](#testing)
 {: #testing}
 
-- <span class='date'>2013.10.02</span> [nacyot : Rspec과 Guard를 활용한 루비 테스트 자동화](http://blog.nacyot.com/articles/2013-10-02-ruby-test-automation-with-rspec-and-guard/)
-- <span class='date'>2013.04.25</span> [<span class='tag'>번역</span> yisangwook : - TDD는 죽었다 - Rails를 만든 DHH의 글](http://yisangwook.tumblr.com/post/83725422949/tdd-is-dead-long-live-testing)
-- <span class='date'>2013.04.07</span> [nacyot : 루비 테스트 프레임워크 RSpec 2.14 매쳐(Matchers)](http://blog.nacyot.com/articles/2014-04-07-rspec-matchers/)
-- <span class='date'>2013.03.24</span> [<span class='tag'>번역</span> marocchino : 분산 테스트 실행 시스템 RRRSpec을 출시하였습니다.](https://gist.github.com/marocchino/9738532)
-- [<span class='tag'>번역</span> Better Specs](http://betterspecs.org/ko)
+- <span class='tag'>번역</span> [Better Specs](http://betterspecs.org/ko)
+- <span class='tag'>동영상</span> [Ashal JOKER : Coding Life](http://www.youtube.com/playlist?list=PLbdtsbZUwdeSAjccModOzFREAyX9W4Jh-)
 
 ## [루비모션(RubyMotion)](#rubymotion)
 {: #rubymotion}
@@ -63,30 +80,9 @@ title: 루비 프로그래밍 언어 한글 문서
     - [Use CocoaPods Dependencies in RubyMotion Apps](http://ruby-korea.github.io/RubyMotionDocumentation/articles/cocoapods/)
     - [Submit RubyMotion Apps to TestFlight](http://ruby-korea.github.io/RubyMotionDocumentation/articles/testflight/)
     - [Setting up your editor to work with RubyMotion](http://ruby-korea.github.io/RubyMotionDocumentation/articles/editors/)
+    - [Debugging RubyMotion applications](http://ruby-korea.github.io/RubyMotionDocumentation/articles/debugging/)
     - [Writing Ruby gems for RubyMotion](http://ruby-korea.github.io/RubyMotionDocumentation/articles/gems/)
     - [Writing Tests for RubyMotion Apps](http://ruby-korea.github.io/RubyMotionDocumentation/articles/testing/)
-    - [Debugging RubyMotion applications](http://ruby-korea.github.io/RubyMotionDocumentation/articles/debugging/)
-
-## [동영상](#movie-clip)
-{: #movie-clip}
-
-- <span class='date'>2013.08.18</span> [김성준 : Zero to Pinterest UI(Dev.Study.Archive)](http://dev-study.github.io/presentations/zero_to_pinterent_ui.html)
-- <span class='date'>2013.01.19</span> [서동주 : 루비 기본 100분](http://www.youtube.com/watch?v=vjyL6fLzJjA)
-- <span class='date'>2012.09.27</span> [문추근 : 루비는 패셔니스타(Deview 2012)](http://deview.kr/2012/xe/index.php?mid=track&document_srl=391&time_srl=233)
-- <span class='date'>2012.11.13</span> [최명진 : Instant Prototyping with Ruby on Rails(H3 2012)](http://www.youtube.com/watch?v=AlNLavCg3yg)
-- <span class='date'>2012.11.13</span> [조범석 : Open API 와 Ruby on Rails 에 대한 이야기(H3 2012 )](http://www.youtube.com/watch?v=fAi0PC0v5OQ)
-- [RORLab Podcasts](https://itunes.apple.com/cy/podcast/rorlab-podcast/id770036911)
-- [Ashal JOKER : Coding Life](http://www.youtube.com/playlist?list=PLbdtsbZUwdeSAjccModOzFREAyX9W4Jh-)
-
-## [블로그 / 사이트](#blog)
-{: #blog}
-
-- [루비 공식 사이트](https://www.ruby-lang.org/ko/)
-- [HappyRails](http://happyrails.rorlab.org/ko)
-- [Remotty Tech Blog](http://blog.remotty.com)
-- [ROR Lab.](http://rorlab.org/)
-- [이상한 모임](http://we.weirdmeetup.com/tag/ruby/)
-- [nacyot](http://blog.nacyot.com/tags/ruby/)
 
 ## [책](#book)
 {: #book}
@@ -94,6 +90,12 @@ title: 루비 프로그래밍 언어 한글 문서
 현재 루비 최신 버전은 2.2, 레일즈 최신 버전은 4.2 입니다. 루비는 2.0 이후
 버전, 레일즈는 3.0 이후 버전을 다루고 있는 책을 읽으시길 권해 드립니다.
 
+- <span class='date'>2014.xx</span> 초보자를 위한 레일스 가이드북
+  [gitbook](https://www.gitbook.io/book/rorlab/railsguidebook)
+- <span class='date'>2014.xx</span> Devise 젬 파헤치기
+  [gitbook](https://www.gitbook.io/book/luciuschoi/exploring_devise)
+- <span class='date'>2014.xx</span> FoundBlog 따라하기
+  [gitbook](https://www.gitbook.io/book/luciuschoi/foundblog)
 - <span class='date'>2014.11</span> <span class='tag'>번역</span> 루비로 배우는 객체지향 디자인
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=896626123X)
   [yes24](http://www.yes24.com/24/Goods/15254976?Acode=101)
