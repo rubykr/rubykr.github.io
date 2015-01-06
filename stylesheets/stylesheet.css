@@ -49,6 +49,11 @@ table {
   font-size: 14px;
 }
 
+.author {
+  color: #999;
+  font-size: 12px;
+}
+
 .tag {
   -webkit-font-smoothing: antialiased;
   background-color: rgb(0, 140, 186);
