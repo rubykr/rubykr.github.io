@@ -13,6 +13,8 @@ title: 루비 프로그래밍 언어 한글 문서
 - [빨리 알았으면 좋았을 뻔한 레일즈 기술](https://dayone.me/1ajvzWC){: .article data-tags="translated rails" data-author="marocchino" data-date="2014.12.31"}
 - [Hashie는 위험해요 - 해쉬와 OpenStruct를 위한 송시](https://dayone.me/18pYzZD){: .article data-tags="translated gem" data-author="marocchino" data-date="2014.12.19"}
 - [capistrano, fig 배포하기](https://dayone.me/1767zVi){: .article data-tags="ci" data-author="marocchino" data-date="2014.12.18"}
+- [도커(Docker)로 루비 온 레일스 어플리케이션 배포하기 (1) 어플리케이션 이미지 만들기](http://blog.nacyot.com/articles/2014-08-08-rails-on-docker/){: .article data-tags="rails ci" data-author="seapy" data-date="2014.08.08"}
+- [Docker(도커)로 Ruby On Rails 쉽게 배포하기](http://seapy.com/2084){: .article data-tags="rails ci" data-author="seapy" data-date="2014.08.03"}
 - [루비의 꽃, 열거자 Enumerable 모듈](http://blog.nacyot.com/articles/2014-04-19-ruby-enumerable/){: .article data-tags="ruby" data-author="nacyot" data-date="2014.04.19"}
 - [쿡패드(Cookpad) 루비 스타일 가이드](http://blog.nacyot.com/articles/2014-03-23-cookpad-ruby-styleguide/){: .article data-tags="translated ruby" data-author="nacyot" data-date="2014.03.23"}
 - [‘루비’의 아빠, 마츠모토 유키히로](http://www.bloter.net/archives/184564){: .article data-tags="ruby" data-author="블로터" data-date="2014.03.12"}
