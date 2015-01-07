@@ -51,6 +51,7 @@ title: 루비 프로그래밍 언어 한글 문서
     - [설치하기](https://www.ruby-lang.org/ko/documentation/installation/)
   - [라이브러리(젬)](https://www.ruby-lang.org/ko/libraries/)
   - [뉴스](https://www.ruby-lang.org/ko/news/)
+- [루비로 시작하는 프로그래밍](http://opentutorials.org/module/11/254){: .article data-tags="translated ruby" data-author="개발자영어"}
 - [루비 스타일 가이드](https://github.com/dalzony/ruby-style-guide/blob/master/README-koKR.md){: .article data-tags="translated ruby" data-author="dalzony"}
 - [알아두면 도움이 되는 55가지 루비 기법](https://gist.github.com/nacyot/7624036){: .article data-tags="translated ruby" data-author="nacyot"}
 - [Joinc : Ruby](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Ruby){: .article data-tags="ruby"}
