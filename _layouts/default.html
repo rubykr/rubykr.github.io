@@ -14,10 +14,20 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
       <header class="inner">
-        <a id="forkme_banner" href="https://github.com/ruby-korea/ruby-korea.github.io/blob/master/index.md">View on GitHub</a>
+        <a id="forkme_banner" href="https://github.com/ruby-korea/ruby-korea.github.io/blob/master/index.md">Edit on GitHub</a>
 
         <h1 id="project_title">{{ page.title }}</h1>
-        <h2 id="project_tagline"></h2>
+        <h2 id="project_tagline">
+          필터링 :
+          <span id='tags'>
+            <a href="#ruby"  class="tag tag-ruby"  data-name="ruby" >ruby</a>
+            <a href="#rails" class="tag tag-rails" data-name="rails">rails</a>
+            <a href="#gem"   class="tag tag-gem"   data-name="gem"  >gem</a>
+            <a href="#test"  class="tag tag-test"  data-name="test" >test</a>
+            <a href="#ci"    class="tag tag-ci"    data-name="ci"   >ci</a>
+          </span>
+          <a href="#" class="tag tag-clear">clear</a>
+        </h2>
 
       </header>
     </div>
@@ -52,5 +62,6 @@
         <p>Published with <a href="http://svperstarz.github.io/jekyll-docs-ko/">Jekyll</a></p>
       </footer>
     </div>
+    <script src="javascripts/main.js" type="text/javascript"></script>
   </body>
 </html>
