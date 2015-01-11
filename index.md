@@ -10,8 +10,8 @@ title: 루비 프로그래밍 언어 한글 문서
 ## [글](#articles)
 {: #articles}
 
-- [센디 메츠가 해주는 간단하지만 강력한 3가지 조언](https://dayone.me/1dalzfv){: .article data-tags="translated ruby oop" data-author="marocchino" data-date="2015.01.09"}
-- [ActiveRecord 4.2의 형변환](https://dayone.me/1d9az2u){: .article data-tags="translated rails oop" data-author="marocchino" data-date="2015.01.09"}
+- [센디 메츠가 해주는 간단하지만 강력한 3가지 조언](https://dayone.me/1dalzfv){: .article data-tags="translated ruby oop" data-author="marocchino" data-date="2015.01.10"}
+- [ActiveRecord 4.2의 형변환](https://dayone.me/1d9az2u){: .article data-tags="translated rails oop" data-author="marocchino" data-date="2015.01.10"}
 - [Ruby 2.2.0 Time#parse TZ관련 회귀](https://dayone.me/1cWNz80){: .article data-tags="translated ruby" data-author="marocchino" data-date="2015.01.09"}
 - [빨리 알았으면 좋았을 뻔한 레일즈 기술](https://dayone.me/1ajvzWC){: .article data-tags="translated rails" data-author="marocchino" data-date="2014.12.31"}
 - [Hashie는 위험해요 - 해쉬와 OpenStruct를 위한 송시](https://dayone.me/18pYzZD){: .article data-tags="translated gem" data-author="marocchino" data-date="2014.10.14"}
