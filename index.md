@@ -10,7 +10,7 @@ title: 루비 프로그래밍 언어 한글 문서
 ## [글](#articles)
 {: #articles}
 
-- [루비에 컨트리뷰트 했다.](https://dayone.me/1dJRzSb){: .article data-tags="translated ruby" data-author="marocchino" data-date="2015.01.12"}
+- [루비에 컨트리뷰트 했다.](https://dayone.me/1dJRzSb){: .article data-tags="translated ruby-core" data-author="marocchino" data-date="2015.01.12"}
 - [Slack 팀 자동 가입 페이지 Heroku에 배포](http://seapy.com/2087){: .article data-tags="gem sinatra ci" data-author="seapy" data-date="2015.01.12"}
 - [센디 메츠가 해주는 간단하지만 강력한 3가지 조언](https://dayone.me/1dalzfv){: .article data-tags="translated ruby oop" data-author="marocchino" data-date="2015.01.10"}
 - [ActiveRecord 4.2의 형변환](https://dayone.me/1d9az2u){: .article data-tags="translated rails oop" data-author="marocchino" data-date="2015.01.10"}
