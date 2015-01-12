@@ -15,8 +15,8 @@ title: 루비 프로그래밍 언어 한글 문서
 - [Ruby 2.2.0 Time#parse TZ관련 회귀](https://dayone.me/1cWNz80){: .article data-tags="translated ruby" data-author="marocchino" data-date="2015.01.09"}
 - [빨리 알았으면 좋았을 뻔한 레일즈 기술](https://dayone.me/1ajvzWC){: .article data-tags="translated rails" data-author="marocchino" data-date="2014.12.31"}
 - [Hashie는 위험해요 - 해쉬와 OpenStruct를 위한 송시](https://dayone.me/18pYzZD){: .article data-tags="translated gem" data-author="marocchino" data-date="2014.12.19"}
-- [whenever 사용하기](https://gist.github.com/marocchino/339af95e07d17ed2a87e){: .article data-tags="gem" data-author="marocchino" data-date="2014.10.14"}
 - [capistrano, fig 배포하기](https://dayone.me/1767zVi){: .article data-tags="ci" data-author="marocchino" data-date="2014.12.18"}
+- [whenever 사용하기](https://gist.github.com/marocchino/339af95e07d17ed2a87e){: .article data-tags="gem" data-author="marocchino" data-date="2014.10.14"}
 - [Ruby 개발환경 설정하기 (윈도우7에서)](http://bcho.tistory.com/946){: .article data-tags="ruby" data-author="TerryCho" data-date="2014.08.18"}
 - [Ruby 언어 기본 문법](http://bcho.tistory.com/945){: .article data-tags="ruby" data-author="TerryCho" data-date="2014.08.18"}
 - [도커(Docker)로 루비 온 레일스 어플리케이션 배포하기 (1) 어플리케이션 이미지 만들기](http://blog.nacyot.com/articles/2014-08-08-rails-on-docker/){: .article data-tags="rails ci" data-author="seapy" data-date="2014.08.08"}
