@@ -10,48 +10,48 @@ title: 루비 프로그래밍 언어 한글 문서
 ## [글](#articles)
 {: #articles}
 
-- [루비에 컨트리뷰트 했다.](https://dayone.me/1dJRzSb){: .article data-tags="translated ruby-core" data-author="marocchino" data-date="2015.01.12"}
-- [Slack 팀 자동 가입 페이지 Heroku에 배포](http://seapy.com/2087){: .article data-tags="gem sinatra ci" data-author="seapy" data-date="2015.01.12"}
-- [센디 메츠가 해주는 간단하지만 강력한 3가지 조언](https://dayone.me/1dalzfv){: .article data-tags="translated ruby oop" data-author="marocchino" data-date="2015.01.10"}
-- [ActiveRecord 4.2의 형변환](https://dayone.me/1d9az2u){: .article data-tags="translated rails oop" data-author="marocchino" data-date="2015.01.10"}
-- [Ruby 2.2.0 Time#parse TZ관련 회귀](https://dayone.me/1cWNz80){: .article data-tags="translated ruby" data-author="marocchino" data-date="2015.01.09"}
-- [빨리 알았으면 좋았을 뻔한 레일즈 기술](https://dayone.me/1ajvzWC){: .article data-tags="translated rails" data-author="marocchino" data-date="2014.12.31"}
-- [Hashie는 위험해요 - 해쉬와 OpenStruct를 위한 송시](https://dayone.me/18pYzZD){: .article data-tags="translated gem" data-author="marocchino" data-date="2014.12.19"}
-- [capistrano, fig 배포하기](https://dayone.me/1767zVi){: .article data-tags="ci" data-author="marocchino" data-date="2014.12.18"}
-- [whenever 사용하기](https://gist.github.com/marocchino/339af95e07d17ed2a87e){: .article data-tags="gem" data-author="marocchino" data-date="2014.10.14"}
-- [Ruby 개발환경 설정하기 (윈도우7에서)](http://bcho.tistory.com/946){: .article data-tags="ruby" data-author="TerryCho" data-date="2014.08.18"}
-- [Ruby 언어 기본 문법](http://bcho.tistory.com/945){: .article data-tags="ruby" data-author="TerryCho" data-date="2014.08.18"}
-- [도커(Docker)로 루비 온 레일스 어플리케이션 배포하기 (1) 어플리케이션 이미지 만들기](http://blog.nacyot.com/articles/2014-08-08-rails-on-docker/){: .article data-tags="rails ci" data-author="seapy" data-date="2014.08.08"}
-- [Docker(도커)로 Ruby On Rails 쉽게 배포하기](http://seapy.com/2084){: .article data-tags="rails ci" data-author="seapy" data-date="2014.08.03"}
-- [루비의 꽃, 열거자 Enumerable 모듈](http://blog.nacyot.com/articles/2014-04-19-ruby-enumerable/){: .article data-tags="ruby" data-author="nacyot" data-date="2014.04.19"}
-- [쿡패드(Cookpad) 루비 스타일 가이드](http://blog.nacyot.com/articles/2014-03-23-cookpad-ruby-styleguide/){: .article data-tags="translated ruby" data-author="nacyot" data-date="2014.03.23"}
-- [‘루비’의 아빠, 마츠모토 유키히로](http://www.bloter.net/archives/184564){: .article data-tags="ruby" data-author="블로터" data-date="2014.03.12"}
-- [AngularJS + Rails 프로젝트 구성](http://blog.remotty.com/blog/2014/02/01/angularjs-plus-rails-peurojegteu-guseong/){: .article data-tags="rails" data-author="subicura" data-date="2014.02.01"}
-- [Padrino Blog Tutorial](http://blog.baenlee.com/blog/2013/12/30/bundle-exec-padrino-g-project/){: .article data-tags="translated gem" data-author="gosoochaja" data-date="2013.12.30"}
-- [맨붕없이 RVM과 루비 설치하기](http://bigmatch.i-um.net/2013/12/%EB%A9%98%EB%B6%95%EC%97%86%EC%9D%B4-rvm%EA%B3%BC-%EB%A3%A8%EB%B9%84-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/){: .article data-tags="ruby" data-author="Bigmatch" data-date="2013.12.04"}
-- [Rspec과 Guard를 활용한 루비 테스트 자동화](http://blog.nacyot.com/articles/2013-10-02-ruby-test-automation-with-rspec-and-guard/){: .article data-tags="test" data-author="nacyot" data-date="2013.10.02"}
-- [Thinking about Ruby’s Class Declaration Syntax, Object Creation Mechanism](http://we.weirdmeetup.com/thinking-about-rubys-class-declaration-syntax-object-creation-mechanism/){: .article data-tags="ruby" data-author="JOONJEONG" data-date="2013.09.02"}
-- [루비의 Each와 Map의 차이](http://blog.baenlee.com/blog/2013/09/05/difference-between-the-map-and-each-in-ruby/){: .article data-tags="ruby" data-author="gosoochaja" data-date="2013.09.05"}
-- [9분만에 배우는 루비(Ruby)](http://blog.baenlee.com/blog/2013/08/19/try-ruby-00){: .article data-tags="ruby" data-author="gosoochaja" data-date="2013.08.19"}
-- [JavaScript를 Ruby처럼 작성하기](http://blog.baenlee.com/blog/2013/08/16/jsruby/){: .article data-tags="ruby" data-author="gosoochaja" data-date="2013.08.16"}
-- [Ruby의 철학에 관한 마츠모토 유키히로의 인터뷰 Part 1](http://we.weirdmeetup.com/ruby의-철학에-관한-마츠모토-유키히로의-인터뷰-part-1/){: .article data-tags="translated ruby" data-author="JOONJEONG" data-date="2013.08.15"}
-- [루비 온 레일스 아키텍처 디자인](http://flowkater.github.io/blog/2013/08/12/rails-architecture/){: .article data-tags="translated rails" data-author="Fl0wk27er" data-date="2013.08.12"}
-- [Ruby 와 Rails 배우고 싶을때](http://flowkater.github.io/blog/2013/08/07/ruby-and-rails-learning-resource/){: .article data-tags="ruby rails" data-author="Fl0wk27er" data-date="2013.08.07"}
-- [Ruby, Rails 스터디 이전 발표 자료](http://flowkater.github.io/blog/2013/05/29/be-a-rubyist-1-2/){: .article data-tags="ruby rails" data-author="Fl0wk27er" data-date="2013.05.29"}
-- [- TDD는 죽었다 - Rails를 만든 DHH의 글](http://yisangwook.tumblr.com/post/83725422949/tdd-is-dead-long-live-testing){: .article data-tags="translated test" data-author="yisangwook" data-date="2013.04.25"}
-- [루비 테스트 프레임워크 RSpec 2.14 매쳐(Matchers)](http://blog.nacyot.com/articles/2014-04-07-rspec-matchers/){: .article data-tags="test" data-author="nacyot" data-date="2013.04.07"}
-- [분산 테스트 실행 시스템 RRRSpec을 출시하였습니다.](https://gist.github.com/marocchino/9738532){: .article data-tags="translated test" data-author="marocchino" data-date="2013.03.24"}
+- [루비에 컨트리뷰트 했다.](https://dayone.me/1dJRzSb){: .article data-date="2015.01.12" data-tags="translated ruby-core" data-author="marocchino" }
+- [Slack 팀 자동 가입 페이지 Heroku에 배포](http://seapy.com/2087){: .article data-date="2015.01.12" data-tags="gem sinatra ci" data-author="seapy" }
+- [센디 메츠가 해주는 간단하지만 강력한 3가지 조언](https://dayone.me/1dalzfv){: .article data-date="2015.01.10" data-tags="translated ruby oop" data-author="marocchino" }
+- [ActiveRecord 4.2의 형변환](https://dayone.me/1d9az2u){: .article data-date="2015.01.10" data-tags="translated rails oop" data-author="marocchino" }
+- [Ruby 2.2.0 Time#parse TZ관련 회귀](https://dayone.me/1cWNz80){: .article data-date="2015.01.09" data-tags="translated ruby" data-author="marocchino" }
+- [빨리 알았으면 좋았을 뻔한 레일즈 기술](https://dayone.me/1ajvzWC){: .article data-date="2014.12.31" data-tags="translated rails" data-author="marocchino" }
+- [Hashie는 위험해요 - 해쉬와 OpenStruct를 위한 송시](https://dayone.me/18pYzZD){: .article data-date="2014.12.19" data-tags="translated gem" data-author="marocchino" }
+- [capistrano, fig 배포하기](https://dayone.me/1767zVi){: .article data-date="2014.12.18" data-tags="ci" data-author="marocchino" }
+- [whenever 사용하기](https://gist.github.com/marocchino/339af95e07d17ed2a87e){: .article data-date="2014.10.14" data-tags="gem" data-author="marocchino" }
+- [Ruby 개발환경 설정하기 (윈도우7에서)](http://bcho.tistory.com/946){: .article data-date="2014.08.18" data-tags="ruby" data-author="TerryCho" }
+- [Ruby 언어 기본 문법](http://bcho.tistory.com/945){: .article data-date="2014.08.18" data-tags="ruby" data-author="TerryCho" }
+- [도커(Docker)로 루비 온 레일스 어플리케이션 배포하기 (1) 어플리케이션 이미지 만들기](http://blog.nacyot.com/articles/2014-08-08-rails-on-docker/){: .article data-date="2014.08.08" data-tags="rails ci" data-author="seapy" }
+- [Docker(도커)로 Ruby On Rails 쉽게 배포하기](http://seapy.com/2084){: .article data-date="2014.08.03" data-tags="rails ci" data-author="seapy" }
+- [루비의 꽃, 열거자 Enumerable 모듈](http://blog.nacyot.com/articles/2014-04-19-ruby-enumerable/){: .article data-date="2014.04.19" data-tags="ruby" data-author="nacyot" }
+- [쿡패드(Cookpad) 루비 스타일 가이드](http://blog.nacyot.com/articles/2014-03-23-cookpad-ruby-styleguide/){: .article data-date="2014.03.23" data-tags="translated ruby" data-author="nacyot" }
+- [‘루비’의 아빠, 마츠모토 유키히로](http://www.bloter.net/archives/184564){: .article data-date="2014.03.12" data-tags="ruby" data-author="블로터" }
+- [AngularJS + Rails 프로젝트 구성](http://blog.remotty.com/blog/2014/02/01/angularjs-plus-rails-peurojegteu-guseong/){: .article data-date="2014.02.01" data-tags="rails" data-author="subicura" }
+- [Padrino Blog Tutorial](http://blog.baenlee.com/blog/2013/12/30/bundle-exec-padrino-g-project/){: .article data-date="2013.12.30" data-tags="translated gem" data-author="gosoochaja" }
+- [맨붕없이 RVM과 루비 설치하기](http://bigmatch.i-um.net/2013/12/%EB%A9%98%EB%B6%95%EC%97%86%EC%9D%B4-rvm%EA%B3%BC-%EB%A3%A8%EB%B9%84-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/){: .article data-date="2013.12.04" data-tags="ruby" data-author="Bigmatch" }
+- [Rspec과 Guard를 활용한 루비 테스트 자동화](http://blog.nacyot.com/articles/2013-10-02-ruby-test-automation-with-rspec-and-guard/){: .article data-date="2013.10.02" data-tags="test" data-author="nacyot" }
+- [Thinking about Ruby’s Class Declaration Syntax, Object Creation Mechanism](http://we.weirdmeetup.com/thinking-about-rubys-class-declaration-syntax-object-creation-mechanism/){: .article data-date="2013.09.02" data-tags="ruby" data-author="JOONJEONG" }
+- [루비의 Each와 Map의 차이](http://blog.baenlee.com/blog/2013/09/05/difference-between-the-map-and-each-in-ruby/){: .article data-date="2013.09.05" data-tags="ruby" data-author="gosoochaja" }
+- [9분만에 배우는 루비(Ruby)](http://blog.baenlee.com/blog/2013/08/19/try-ruby-00){: .article data-date="2013.08.19" data-tags="ruby" data-author="gosoochaja" }
+- [JavaScript를 Ruby처럼 작성하기](http://blog.baenlee.com/blog/2013/08/16/jsruby/){: .article data-date="2013.08.16" data-tags="ruby" data-author="gosoochaja" }
+- [Ruby의 철학에 관한 마츠모토 유키히로의 인터뷰 Part 1](http://we.weirdmeetup.com/ruby의-철학에-관한-마츠모토-유키히로의-인터뷰-part-1/){: .article data-date="2013.08.15" data-tags="translated ruby" data-author="JOONJEONG" }
+- [루비 온 레일스 아키텍처 디자인](http://flowkater.github.io/blog/2013/08/12/rails-architecture/){: .article data-date="2013.08.12" data-tags="translated rails" data-author="Fl0wk27er" }
+- [Ruby 와 Rails 배우고 싶을때](http://flowkater.github.io/blog/2013/08/07/ruby-and-rails-learning-resource/){: .article data-date="2013.08.07" data-tags="ruby rails" data-author="Fl0wk27er" }
+- [Ruby, Rails 스터디 이전 발표 자료](http://flowkater.github.io/blog/2013/05/29/be-a-rubyist-1-2/){: .article data-date="2013.05.29" data-tags="ruby rails" data-author="Fl0wk27er" }
+- [- TDD는 죽었다 - Rails를 만든 DHH의 글](http://yisangwook.tumblr.com/post/83725422949/tdd-is-dead-long-live-testing){: .article data-date="2013.04.25" data-tags="translated test" data-author="yisangwook" }
+- [루비 테스트 프레임워크 RSpec 2.14 매쳐(Matchers)](http://blog.nacyot.com/articles/2014-04-07-rspec-matchers/){: .article data-date="2013.04.07" data-tags="test" data-author="nacyot" }
+- [분산 테스트 실행 시스템 RRRSpec을 출시하였습니다.](https://gist.github.com/marocchino/9738532){: .article data-date="2013.03.24" data-tags="translated test" data-author="marocchino" }
 
 
 ## [동영상](#movies)
 {: #movies}
 
-- [도커(Docker)로 루비 온 레일스(Ruby on Rails) 어플리케이션 배포하기 1/2](https://www.youtube.com/watch?v=LEeQvLx70MA){: .article data-tags="rails ci" data-author="nacyot" data-date="2014.06.11"}
-- [Zero to Pinterest UI(Dev.Study.Archive)](http://dev-study.github.io/presentations/zero_to_pinterent_ui.html){: .article data-tags="rails" data-author="김성준" data-date="2013.08.18"}
-- [루비 기본 100분](http://www.youtube.com/watch?v=vjyL6fLzJjA){: .article data-tags="ruby" data-author="서동주" data-date="2013.01.19"}
-- [Instant Prototyping with Ruby on Rails(H3 2012)](http://www.youtube.com/watch?v=AlNLavCg3yg){: .article data-tags="rails" data-author="최명진" data-date="2012.11.13"}
-- [Open API 와 Ruby on Rails 에 대한 이야기(H3 2012)](http://www.youtube.com/watch?v=fAi0PC0v5OQ){: .article data-tags="rails" data-author="조범석" data-date="2012.11.13"}
-- [루비는 패셔니스타(Deview 2012)](http://deview.kr/2012/xe/index.php?mid=track&document_srl=391&time_srl=233){: .article data-tags="ruby" data-author="문추근" data-date="2012.09.27"}
+- [도커(Docker)로 루비 온 레일스(Ruby on Rails) 어플리케이션 배포하기 1/2](https://www.youtube.com/watch?v=LEeQvLx70MA){: .article data-date="2014.06.11" data-tags="rails ci" data-author="nacyot" }
+- [Zero to Pinterest UI(Dev.Study.Archive)](http://dev-study.github.io/presentations/zero_to_pinterent_ui.html){: .article data-date="2013.08.18" data-tags="rails" data-author="김성준" }
+- [루비 기본 100분](http://www.youtube.com/watch?v=vjyL6fLzJjA){: .article data-date="2013.01.19" data-tags="ruby" data-author="서동주" }
+- [Instant Prototyping with Ruby on Rails(H3 2012)](http://www.youtube.com/watch?v=AlNLavCg3yg){: .article data-date="2012.11.13" data-tags="rails" data-author="최명진" }
+- [Open API 와 Ruby on Rails 에 대한 이야기(H3 2012)](http://www.youtube.com/watch?v=fAi0PC0v5OQ){: .article data-date="2012.11.13" data-tags="rails" data-author="조범석" }
+- [루비는 패셔니스타(Deview 2012)](http://deview.kr/2012/xe/index.php?mid=track&document_srl=391&time_srl=233){: .article data-date="2012.09.27" data-tags="ruby" data-author="문추근" }
 - [RORLab Podcasts](https://itunes.apple.com/cy/podcast/rorlab-podcast/id770036911){: .article data-tags="rails"}
 - [Coding Life](http://www.youtube.com/playlist?list=PLbdtsbZUwdeSAjccModOzFREAyX9W4Jh-){: .article data-tags="test" data-author="Ashal JOKER"}
 
