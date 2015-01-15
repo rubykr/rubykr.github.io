@@ -135,13 +135,6 @@ GEM
     pygments.rb (0.6.0)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
-    rack (1.6.0)
-    rack-jekyll (0.3.5)
-      jekyll
-      rack
-    rack-protection (1.5.3)
-      rack
-    rack-rewrite (1.5.1)
     rake (10.4.2)
     rb-fsevent (0.9.4)
     rb-inotify (0.9.5)
@@ -186,11 +179,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll (~> 2.0)
   kramdown
-  rack-jekyll
-  rack-protection
-  rack-rewrite
   rake (~> 10.0)
   spidr (~> 0.4)
   travis
