@@ -1,0 +1,21 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[{{ site.name }}]]></title>
+    <link>{{ site.url }}</link>
+    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+    <language>ko</language>
+    <description><![CDATA[{{ site.description }}]]></description>
+    {% for article in page.articles limit:10 %}
+    <item>
+      <title><![CDATA[{{ article.title }}]]></title>
+      <guid isPermaLink="false">{{ article.url }}</guid>
+      <link>{{ article.url }}</link>
+      <pubDate>{{ article.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>

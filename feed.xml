@@ -1,27 +1,22 @@
 ---
+layout: nil
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-	<channel>
-		<title>{{ site.name | xml_escape }}</title>
-		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
-		<link>{{ site.url }}</link>
-		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml"/>
-		{% for article in page.articles limit:10 %}
-			<item>
-				<title>{{ article.title | xml_escape }}</title>
-				<dc:creator>{{ article.author | xml_escape }}</dc:creator>
-				{% if article.excerpt %}
-					<description>{{ article.excerpt | xml_escape }}</description>
-				{% elsif article.content %}
-					<description>{{ article.content | xml_escape }}</description>
-				{% else %}
-					<description></description>
-				{% endif %}
-					<pubDate>{{ article.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-				<link>{{ article.url }}</link>
-				<guid isPermaLink="true">{{ article.url }}</guid>
-			</item>
-		{% endfor %}
-	</channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ site.name | xml_escape }}</title>
+  <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
+  <link href="{{ site.url }}" />
+  <link href="{{ site.url }}/feed.xml" rel="self" />
+  <updated>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</updated>
+  {% for article in page.articles limit:10 %}
+  <entry>
+    <title>{{ article.title | xml_escape }}</title>
+    <link href="{{ article.url }}" />
+    <id>{{ article.url }}</id>
+    <author>
+      <name>{{ article.author | xml_escape }}</name>
+    </author>
+    <updated>{{ article.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</updated>
+  </entry>
+  {% endfor %}
+</feed>

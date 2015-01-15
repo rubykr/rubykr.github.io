@@ -3,7 +3,9 @@ module Jekyll
     def generate(site)
       @index_page = site.pages.find { |page| page.name == "index.md" }
       @feed_page = site.pages.find { |page| page.name == "feed.xml" }
+      @rss_page = site.pages.find { |page| page.name == "rss.xml" }
       @feed_page.data['articles'] = articles
+      @rss_page.data['articles'] = articles
     end
 
     private
