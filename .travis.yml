@@ -4,9 +4,9 @@ rvm:
 - 2.2.0
 branches:
   only:
-  - master
+  - jekyll
 before_script: bundle exec rspec spec
-script: bundle exec rake generate
+script: bundle exec rake build
 after_success: bundle exec rake release
 env:
   global:
