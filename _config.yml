@@ -3,6 +3,7 @@ url: https://ruby-korea.github.io
 markdown: kramdown
 highlighter: pygments
 timezone: Asia/Seoul
+cache: bundler
 exclude:
 - Gemfile
 - Gemfile.lock
