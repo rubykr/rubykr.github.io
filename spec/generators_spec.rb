@@ -6,11 +6,18 @@ end
 
 describe Article do
   describe ".all" do
-    subject(:articles) { Article.all([
-        '- [title](https://link.to.article){: .article data-date="2015.01.12" data-tags="translated ruby" data-author="author" }',
-        '- [title](https://link.to.article){: .article data-date="2015.01.12" data-tags="ruby" data-author="author" }',
-      ]) }
-    it { expect(articles.size).to be(2) }
+    context 'when invalid row' do
+      let(:content) { "" }
+      subject(:articles) { Article.all(content) }
+      it { expect { articles }.to raise_error Article::InvalidContent }
+    end
+
+    context 'when index.md' do
+      let(:content) { `cat index.md` }
+      subject(:articles) { Article.all(content) }
+      it { expect(articles.class).to be(Array)}
+      it { expect(articles.size).to be > 1 }
+    end
   end
 
   describe "#new" do
