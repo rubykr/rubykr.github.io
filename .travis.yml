@@ -5,7 +5,9 @@ rvm:
 branches:
   only:
   - master
-script: bundle exec rspec spec
+before_script: bundle exec rspec spec
+script: bundle exec rake generate
+after_success: bundle exec rake release
 env:
   global:
     secure: KLuKTR30DpaXXh3Vr0LoSYhXn7OsPL/yR5yoRUKB7C6MKxPFt+5gHzdPbXcx/hrcheXkQad4elxkco8qQiKWe4hNeorQFssbsvVSe2P5s2GMaYJma+WdEwDlYwsjpP98xIQ4v5vRamXehfpB8jy/n+mlvdGAIiXA/d1ka9BpkJI=

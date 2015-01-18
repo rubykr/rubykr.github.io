@@ -22,6 +22,31 @@ task :preview do
   sh 'jekyll serve --watch'
 end
 
+desc "Release the current commit to ruby-korea/ruby-korea.github.io@master"
+task :release do
+  commit = `git rev-parse HEAD`.chomp
+  system "mkdir -p vendor/ruby-korea.github.io"
+  system "git clone https://github.com/ruby-korea/ruby-korea.github.io.git vendor/ruby-korea.github.io"
+
+  Dir.chdir "vendor/ruby-korea.github.io" do
+    sh "git config user.name '#{ENV['GIT_NAME']}'"
+    sh "git config user.email '#{ENV['GIT_EMAIL']}'"
+    sh 'git config credential.helper "store --file=.git/credentials"'
+    File.open('.git/credentials', 'w') do |f|
+      f.write("https://#{ENV['GH_TOKEN']}:@github.com")
+    end
+    sh "git reset --hard HEAD"
+    sh "git checkout master"
+    sh "git pull origin master"
+
+    rm_rf FileList["*"]
+    cp_r FileList["../../_site/*"], "./"
+    sh "git add -A ."
+    sh "git commit -m 'ruby-korea/ruby-korea.github.io@#{commit}'"
+    sh "git push origin master"
+  end
+end
+
 namespace :check do
   desc 'validate _site markup with validate-website'
   task :markup => :generate do
