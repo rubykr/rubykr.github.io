@@ -10,6 +10,7 @@ title: 루비 프로그래밍 언어 한글 문서
 ## [글](#articles)
 {: #articles}
 
+- [루비에 블럭이 있는 이유](https://dayone.me/1g50zn8){: .article data-date="2015.01.22" data-tags="translated ruby" data-author="marocchino" }
 - [루비 2.2에서의 슈퍼 메서드 디버그](https://dayone.me/1faIzEW){: .article data-date="2015.01.19" data-tags="translated ruby" data-author="marocchino" }
 - [사용해봐야 할 5가지 루비 메서드](https://dayone.me/1eP1zCQ){: .article data-date="2015.01.17" data-tags="translated ruby" data-author="marocchino" }
 - [루비에 컨트리뷰트 했다.](https://dayone.me/1dJRzSb){: .article data-date="2015.01.12" data-tags="translated ruby-core" data-author="marocchino" }
