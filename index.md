@@ -49,6 +49,7 @@ title: 루비 프로그래밍 언어 한글 문서
 ## [동영상](#movies)
 {: #movies}
 
+- [Rack 어플리케이션 작성 개요](https://www.youtube.com/watch?v=A1JyeGEColQ){: .article data-date="2015.01.20" data-tags="rack" data-author="marocchino" }
 - [도커(Docker)로 루비 온 레일스(Ruby on Rails) 어플리케이션 배포하기 1/2](https://www.youtube.com/watch?v=LEeQvLx70MA){: .article data-date="2014.06.11" data-tags="rails ci" data-author="nacyot" }
 - [Zero to Pinterest UI(Dev.Study.Archive)](http://dev-study.github.io/presentations/zero_to_pinterent_ui.html){: .article data-date="2013.08.18" data-tags="rails" data-author="김성준" }
 - [루비 기본 100분](http://www.youtube.com/watch?v=vjyL6fLzJjA){: .article data-date="2013.01.19" data-tags="ruby" data-author="서동주" }
