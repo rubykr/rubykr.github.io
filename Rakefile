@@ -12,6 +12,11 @@ end
 
 task :default => [:build]
 
+desc "Test plugins"
+task :test do
+  sh 'rspec spec'
+end
+
 desc "Build the Jekyll site"
 task :build do
   sh 'jekyll build'
@@ -21,6 +26,8 @@ desc "Generates the Jekyll site and starts local server"
 task :preview do
   sh 'jekyll serve --watch'
 end
+
+task travis: ENV["TRAVIS_PULL_REQUEST"] == "false" ? [:test, :build, :release] : [:test]
 
 desc "Release the current commit to ruby-korea/ruby-korea.github.io@master"
 task :release do
