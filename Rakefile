@@ -7,7 +7,7 @@ begin
 rescue LoadError => e
   warn e.message
   warn "Run `gem install bundler` to install Bundler"
-  exit -1
+  exit(-1)
 end
 
 task :default => [:build]
@@ -27,7 +27,7 @@ task :preview do
   sh 'jekyll serve --watch'
 end
 
-task travis: ENV["TRAVIS_PULL_REQUEST"] == "false" ? [:test, :build, :release] : [:test]
+task travis: ENV["TRAVIS_PULL_REQUEST"] == "false" ? [:test, :build, :validate_markup, :release] : [:test, :build, :validate_markup]
 
 desc "Release the current commit to ruby-korea/ruby-korea.github.io@master"
 task :release do
@@ -54,22 +54,20 @@ task :release do
   end
 end
 
-namespace :check do
-  desc 'validate _site markup with validate-website'
-  task :markup => :generate do
-    options = Jekyll.configuration({'auto' => false, 'server' => false})
-    Dir.chdir('_site') do
-      system("validate-website-static --site '#{options['url']}/' --quiet")
-      exit($?.exitstatus)
-    end
+desc 'validate _site markup with validate-website'
+task :validate_markup do
+  Dir.chdir('_site') do
+    system("validate-website-static --site 'https://ruby-korea.github.io/'")
+    exit($?.exitstatus)
   end
-  desc "Checks for broken links on http://0.0.0.0:4000/"
-  task :links do
-    require 'spidr'
-    Spidr.start_at('http://0.0.0.0:4000/') do |agent|
-      agent.every_failed_url do |url|
-        puts "Broken link #{url} found."
-      end
+end
+
+desc "Checks for broken links on http://0.0.0.0:4000/"
+task :links do
+  require 'spidr'
+  Spidr.start_at('http://0.0.0.0:4000/') do |agent|
+    agent.every_failed_url do |url|
+      puts "Broken link #{url} found."
     end
   end
 end
