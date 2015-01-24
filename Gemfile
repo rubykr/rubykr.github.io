@@ -7,7 +7,6 @@ gem 'kramdown'
 gem 'travis'
 
 group :development do
-  gem 'spidr', '~> 0.4'
-  gem 'validate-website', '~> 0.9'
-  gem 'rspec'
+  gem 'validate-website', '~> 1.0'
+  gem 'rspec', '~> 3.0'
 end
