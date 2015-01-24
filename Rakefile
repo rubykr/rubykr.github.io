@@ -57,8 +57,7 @@ end
 desc 'validate _site markup with validate-website'
 task :validate_markup do
   Dir.chdir('_site') do
-    system("validate-website-static --site 'https://ruby-korea.github.io/'")
-    exit($?.exitstatus)
+    sh "validate-website-static --site 'https://ruby-korea.github.io/'"
   end
 end
 
