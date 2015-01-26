@@ -77,7 +77,7 @@ title: 루비 프로그래밍 언어 한글 문서
 - [생활코딩 : 루비](http://opentutorials.org/course/742/4554){: .article data-tags="ruby"}
 - 레일즈 가이드
   [RubyKr](http://rorlab.org/rg/index.html){: .article data-tags="translated rails"}
-  [ROR Lab](http://rubykr.github.io/rails_guides/)
+  [ROR Lab](http://guides.rorlab.org)
 - [ROR Lab.](http://rorlab.org/){: .article data-tags="rails"}
   - [HappyRails](http://happyrails.rorlab.org/ko)
 - [지킬(jekyll)](http://svperstarz.github.io/jekyll-docs-ko/){: .article data-tags="translated gem"}
