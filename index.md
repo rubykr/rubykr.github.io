@@ -10,6 +10,7 @@ title: 루비 프로그래밍 언어 한글 문서
 ## [글](#articles)
 {: #articles}
 
+- [레일즈를 계속 버전업하려면 필요한 것](https://dayone.me/1o5Pzcb){: .article data-date="2015.02.17" data-tags="translated rails" data-author="marocchino" }
 - [워드프레스에서 지킬로 본진 이동](http://we.weirdmeetup.com/jekyll-워드프레스에서-지킬로-본진-이동/){: .article data-date="2015.01.27" data-tags="jekyll" data-author="ohyecloudy" }
 - [Minitest, RSpec 경험담](https://dayone.me/1h07zq8){: .article data-date="2015.01.27" data-tags="translated test" data-author="marocchino" }
 - [루비에 블럭이 있는 이유](https://dayone.me/1g50zn8){: .article data-date="2015.01.22" data-tags="translated ruby" data-author="marocchino" }
