@@ -83,7 +83,7 @@ title: 루비 프로그래밍 언어 한글 문서
   [ROR Lab](http://guides.rorlab.org)
 - [ROR Lab.](http://rorlab.org/){: .article data-tags="rails"}
   - [HappyRails](http://happyrails.rorlab.org/ko)
-- [지킬(jekyll)](http://svperstarz.github.io/jekyll-docs-ko/){: .article data-tags="translated gem"}
+- [지킬(jekyll)](http://jekyllrb-ko.github.io){: .article data-tags="translated gem"}
 - [시나트라(sinatra)](http://www.sinatrarb.com/intro-ko.html){: .article data-tags="translated gem"}
 - [번들러(Bundler)](http://ruby-korea.github.io/bundler-site/){: .article data-tags="translated gem"}
 - RubyMotion 공식 문서 [ ](#){: .article data-tags="translated rubymotion"}
