@@ -99,7 +99,9 @@ title: 루비 프로그래밍 언어 한글 문서
 ## [책](#book)
 {: #book}
 
-
+- 퍼펙트 루비
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=6000824735){: .article data-tags="translated ruby" data-date="2015.04"}
+  [yes24](http://www.yes24.com/24/goods/17297612?scode=029)
 - 루비로 배우는 객체지향 디자인
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=896626123X){: .article data-tags="translated ruby oop" data-date="2014.11"}
   [yes24](http://www.yes24.com/24/Goods/15254976?Acode=101)
