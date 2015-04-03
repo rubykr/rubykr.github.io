@@ -86,6 +86,7 @@ title: 루비 프로그래밍 언어 한글 문서
 - [지킬(jekyll)](http://jekyllrb-ko.github.io){: .article data-tags="translated gem"}
 - [시나트라(sinatra)](http://www.sinatrarb.com/intro-ko.html){: .article data-tags="translated gem"}
 - [번들러(Bundler)](http://ruby-korea.github.io/bundler-site/){: .article data-tags="translated gem"}
+- [루비젬스(RubyGems)](http://ruby-korea.github.io/rubygems-guides/){: .article data-tags="translated gem"}
 - RubyMotion 공식 문서 [ ](#){: .article data-tags="translated rubymotion"}
   - Articles
     - [Use CocoaPods Dependencies in RubyMotion Apps](http://ruby-korea.github.io/RubyMotionDocumentation/articles/cocoapods/)
