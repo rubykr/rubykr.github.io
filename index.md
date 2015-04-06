@@ -10,6 +10,7 @@ title: 루비 프로그래밍 언어 한글 문서
 ## [글](#articles)
 {: #articles}
 
+- [서버 300대 규모의 레일즈 앱 개발하기(번역 및 요약)](http://test-driven.me/archives/217){: .article data-date="2015.04.04" data-tags="translated rails" data-author="keepmoving" }
 - [레일즈를 계속 버전업하려면 필요한 것](https://dayone.me/1o5Pzcb){: .article data-date="2015.02.17" data-tags="translated rails" data-author="marocchino" }
 - [워드프레스에서 지킬로 본진 이동](http://we.weirdmeetup.com/jekyll-워드프레스에서-지킬로-본진-이동/){: .article data-date="2015.01.27" data-tags="jekyll" data-author="ohyecloudy" }
 - [Minitest, RSpec 경험담](https://dayone.me/1h07zq8){: .article data-date="2015.01.27" data-tags="translated test" data-author="marocchino" }
@@ -83,6 +84,7 @@ title: 루비 프로그래밍 언어 한글 문서
   [ROR Lab](http://guides.rorlab.org)
 - [ROR Lab.](http://rorlab.org/){: .article data-tags="rails"}
   - [HappyRails](http://happyrails.rorlab.org/ko)
+- [레일즈 스타일 가이드](https://github.com/pureugong/rails-style-guide/blob/master/README-koKR.md){: .article data-tags="translated rails"}
 - [지킬(jekyll)](http://jekyllrb-ko.github.io){: .article data-tags="translated gem"}
 - [시나트라(sinatra)](http://www.sinatrarb.com/intro-ko.html){: .article data-tags="translated gem"}
 - [번들러(Bundler)](http://ruby-korea.github.io/bundler-site/){: .article data-tags="translated gem"}
