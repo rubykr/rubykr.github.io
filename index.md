@@ -10,6 +10,7 @@ title: 루비 프로그래밍 언어 한국어 문서
 ## [글](#articles)
 {: #articles}
 
+- [주피터(Jupyter) - IRuby Notebook 보충](http://blog.nacyot.com/articles/2015-04-15-rorlab-jupyter-iruby-notebook/){: .article data-date="2015.04.15" data-tags="ruby" data-author="nacyot" }
 - [루비 스타일(3) – 말하는 듯한 코딩](http://thinkinginruby.com/2015/04/13/talking-in-code/){: .article data-date="2015.04.13" data-tags="ruby" data-author="강사룡" }
 - [루비 스타일(2) – 들여쓰기(indent)로부터의 탈출](http://thinkinginruby.com/2015/04/08/exodus-from-indent/){: .article data-date="2015.04.08" data-tags="ruby" data-author="강사룡" }
 - [루비 스타일(1) – C로부터의 탈출](https://thinkinginruby.wordpress.com/2015/04/07/exodus-from-c/){: .article data-date="2015.04.04" data-tags="ruby" data-author="강사룡" }
