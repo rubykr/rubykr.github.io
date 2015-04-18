@@ -15,18 +15,18 @@ title: 루비 프로그래밍 언어 한국어 문서
 - [루비 스타일(2) – 들여쓰기(indent)로부터의 탈출](http://thinkinginruby.com/2015/04/08/exodus-from-indent/){: .article data-date="2015.04.08" data-tags="ruby" data-author="강사룡" }
 - [루비 스타일(1) – C로부터의 탈출](https://thinkinginruby.wordpress.com/2015/04/07/exodus-from-c/){: .article data-date="2015.04.04" data-tags="ruby" data-author="강사룡" }
 - [서버 300대 규모의 레일즈 앱 개발하기(번역 및 요약)](http://test-driven.me/archives/217){: .article data-date="2015.04.04" data-tags="translated rails" data-author="keepmoving" }
-- [레일즈를 계속 버전업하려면 필요한 것](https://dayone.me/1o5Pzcb){: .article data-date="2015.02.17" data-tags="translated rails" data-author="marocchino" }
+- [레일스를 계속 버전업하려면 필요한 것](https://dayone.me/1o5Pzcb){: .article data-date="2015.02.17" data-tags="translated rails" data-author="marocchino" }
 - [워드프레스에서 지킬로 본진 이동](http://we.weirdmeetup.com/jekyll-워드프레스에서-지킬로-본진-이동/){: .article data-date="2015.01.27" data-tags="jekyll" data-author="ohyecloudy" }
 - [Minitest, RSpec 경험담](https://dayone.me/1h07zq8){: .article data-date="2015.01.27" data-tags="translated test" data-author="marocchino" }
-- [루비에 블럭이 있는 이유](https://dayone.me/1g50zn8){: .article data-date="2015.01.22" data-tags="translated ruby" data-author="marocchino" }
-- [루비 2.2에서의 슈퍼 메서드 디버그](https://dayone.me/1faIzEW){: .article data-date="2015.01.19" data-tags="translated ruby" data-author="marocchino" }
-- [사용해봐야 할 5가지 루비 메서드](https://dayone.me/1eP1zCQ){: .article data-date="2015.01.17" data-tags="translated ruby" data-author="marocchino" }
+- [루비에 블록이 있는 이유](https://dayone.me/1g50zn8){: .article data-date="2015.01.22" data-tags="translated ruby" data-author="marocchino" }
+- [루비 2.2에서의 슈퍼 메소드 디버그](https://dayone.me/1faIzEW){: .article data-date="2015.01.19" data-tags="translated ruby" data-author="marocchino" }
+- [사용해봐야 할 5가지 루비 메소드](https://dayone.me/1eP1zCQ){: .article data-date="2015.01.17" data-tags="translated ruby" data-author="marocchino" }
 - [루비에 컨트리뷰트 했다.](https://dayone.me/1dJRzSb){: .article data-date="2015.01.12" data-tags="translated ruby-core" data-author="marocchino" }
 - [Slack 팀 자동 가입 페이지 Heroku에 배포](http://seapy.com/2087){: .article data-date="2015.01.12" data-tags="gem sinatra ci" data-author="seapy" }
 - [센디 메츠가 해주는 간단하지만 강력한 3가지 조언](https://dayone.me/1dalzfv){: .article data-date="2015.01.10" data-tags="translated ruby oop" data-author="marocchino" }
 - [ActiveRecord 4.2의 형변환](https://dayone.me/1d9az2u){: .article data-date="2015.01.10" data-tags="translated rails oop" data-author="marocchino" }
 - [Ruby 2.2.0 Time#parse TZ관련 회귀](https://dayone.me/1cWNz80){: .article data-date="2015.01.09" data-tags="translated ruby" data-author="marocchino" }
-- [빨리 알았으면 좋았을 뻔한 레일즈 기술](https://dayone.me/1ajvzWC){: .article data-date="2014.12.31" data-tags="translated rails" data-author="marocchino" }
+- [빨리 알았으면 좋았을 뻔한 레일스 기술](https://dayone.me/1ajvzWC){: .article data-date="2014.12.31" data-tags="translated rails" data-author="marocchino" }
 - [Hashie는 위험해요 - 해쉬와 OpenStruct를 위한 송시](https://dayone.me/18pYzZD){: .article data-date="2014.12.19" data-tags="translated gem" data-author="marocchino" }
 - [capistrano, fig 배포하기](https://dayone.me/1767zVi){: .article data-date="2014.12.18" data-tags="ci" data-author="marocchino" }
 - [whenever 사용하기](https://gist.github.com/marocchino/339af95e07d17ed2a87e){: .article data-date="2014.10.14" data-tags="gem" data-author="marocchino" }
@@ -83,7 +83,7 @@ title: 루비 프로그래밍 언어 한국어 문서
 - [Joinc : Ruby](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Ruby){: .article data-tags="ruby"}
 - [이상한 모임 : 루비](http://we.weirdmeetup.com/tag/ruby/){: .article data-tags="ruby"}
 - [생활코딩 : 루비](http://opentutorials.org/course/742/4554){: .article data-tags="ruby"}
-- 레일즈 가이드
+- 레일스 가이드
   [RubyKr](http://rorlab.org/rg/index.html){: .article data-tags="translated rails"}
   [ROR Lab](http://guides.rorlab.org)
 - [ROR Lab.](http://rorlab.org/){: .article data-tags="rails"}
@@ -139,12 +139,12 @@ title: 루비 프로그래밍 언어 한국어 문서
 ### [오래된 책들](#book-old)
 {: #book-old}
 
-현재 루비 최신 버전은 2.2, 레일즈 최신 버전은 4.2 입니다. 루비 1.8, 레일즈 2는
-지원이 끝난 상태이며 루비 1.9는 레일즈 3은 보안 유지보수 상태입니다. 아래에 있는
-책들은 루비 1.8 이전, 레일즈 2 이전의 내용을 담고 있습니다. 루비의 경우는 오래된
-책으로도 기본적인 컨샙을 이해하기에 무리가 없습니다만, 레일즈는 2에서 3,4로 넘어갈
+현재 루비 최신 버전은 2.2, 레일스 최신 버전은 4.2 입니다. 루비 1.9, 레일스 2는
+지원이 끝난 상태이며 루비 2.0과 레일스 3은 보안 유지보수 상태입니다. 아래에 있는
+책들은 루비 1.8 이전, 레일스 2 이전의 내용을 담고 있습니다. 루비의 경우는 오래된
+책으로도 기본적인 컨샙을 이해하기에 무리가 없습니다만, 레일스는 2에서 3,4로 넘어갈
 때 중요한 문체의 변화가 있었고 그 시점에서 잘 돌아갔던 코드라도 지금은 사용할 수
-없는 경우도 있으므로, 가능하면 레일즈 3 이후의 책을 읽으시는 걸 추천해 드립니다.
+없는 경우도 있으므로, 가능하면 레일스 3 이후의 책을 읽으시는 걸 추천해 드립니다.
 
 - 루비 프로그래밍 언어
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8979147384){: .article data-tags="translated ruby" data-date="2010.04"}
