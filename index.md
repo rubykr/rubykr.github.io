@@ -112,7 +112,7 @@ title: 루비 프로그래밍 언어 한국어 문서
 - 루비로 배우는 객체지향 디자인
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=896626123X){: .article data-tags="translated ruby oop" data-date="2014.11"}
   [yes24](http://www.yes24.com/24/Goods/15254976?Acode=101)
-  [ebook](http://ebook.insightbook.co.kr/ebooks/5490f4d9bf6e107fd3000008)
+  [ebook](http://ebook.insightbook.co.kr/ebooks/22)
 - 루비를 깨우치다
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8994774769){: .article data-tags="translated ruby-core" data-date="2014.08"}
   [yes24](http://www.yes24.com/24/goods/14163047?scode=032&OzSrank=1)
@@ -131,7 +131,7 @@ title: 루비 프로그래밍 언어 한국어 문서
 - 레일스와 함께하는 애자일 웹 개발 - 4/E
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8966260349){: .article data-tags="translated rails" data-date="2012.05"}
   [yes24](http://www.yes24.com/24/goods/7097680?scode=032&amp;OzSrank=4)
-  [ebook](http://ebook.insightbook.co.kr/ebooks/4fbad65fbf6e100370000002)
+  [ebook](http://ebook.insightbook.co.kr/ebooks/4)
 - 리팩토링 : 루비 에디션
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8994506063){: .article data-tags="translated ruby refactoring" data-date="2011.09"}
   [yes24](http://www.yes24.com/24/goods/5714409?scode=032&amp;OzSrank=6)
@@ -169,7 +169,7 @@ title: 루비 프로그래밍 언어 한국어 문서
 - Programming Ruby 프로그래밍 루비 - 전2권
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8991268250){: .article data-tags="translated rails" data-date="2007.02"}
   [yes24](http://www.yes24.com/24/goods/2314079?scode=032&amp;OzSrank=15)
-  [ebook](http://ebook.insightbook.co.kr/ebooks/4fbad6dcbf6e1002ed000007)
+  [ebook](http://ebook.insightbook.co.kr/ebooks/5)
 - Ruby on Rails- 초고속 웹 개발의 시작
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8979144539){: .article data-tags="translated rails" data-date="2006.11"}
   [yes24](http://www.yes24.com/24/goods/2296786?scode=032&amp;OzSrank=14)
