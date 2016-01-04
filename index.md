@@ -106,6 +106,9 @@ title: 루비 프로그래밍 언어 한국어 문서
 ## [책](#book)
 {: #book}
 
+- 퍼펙트 루비 온 레일즈
+  [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=70721713){: .article data-tags="translated rails" data-date="2015.11"}
+  [yes24](http://www.yes24.com/24/goods/23157559?scode=032&OzSrank=1)
 - Programming Ruby 프로그래밍 루비 제 4판- 전2권
   [알라딘](http://www.aladin.co.kr/shop/wproduct.aspx?start=short&ISBN=8966261671){: .article data-tags="translated ruby" data-date="2015.11"}
   [yes24](http://www.yes24.com/24/goods/22906810?scode=032&OzSrank=1)
