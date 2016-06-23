@@ -10,6 +10,7 @@ title: 루비 프로그래밍 언어 한국어 문서
 ## [글](#articles)
 {: #articles}
 
+- [레일즈 5의 액션 케이블을 활용한 채팅 앱 구현](http://blog.ask.co.de/2016/06/레일즈-5의-액션-케이블을-활용한-채팅-앱-구현/){: .article data-date="2016.06.18" data-tags="ruby" data-author="ASK BLOG" }
 - [주피터(Jupyter) - IRuby Notebook 보충](http://blog.nacyot.com/articles/2015-04-15-rorlab-jupyter-iruby-notebook/){: .article data-date="2015.04.15" data-tags="ruby" data-author="nacyot" }
 - [루비 스타일(3) – 말하는 듯한 코딩](http://thinkinginruby.com/2015/04/13/talking-in-code/){: .article data-date="2015.04.13" data-tags="ruby" data-author="강사룡" }
 - [루비 스타일(2) – 들여쓰기(indent)로부터의 탈출](http://thinkinginruby.com/2015/04/08/exodus-from-indent/){: .article data-date="2015.04.08" data-tags="ruby" data-author="강사룡" }
