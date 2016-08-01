@@ -15,7 +15,6 @@ title: 루비 프로그래밍 언어 한국어 문서
 - [루비 스타일(3) – 말하는 듯한 코딩](http://thinkinginruby.com/2015/04/13/talking-in-code/){: .article data-date="2015.04.13" data-tags="ruby" data-author="강사룡" }
 - [루비 스타일(2) – 들여쓰기(indent)로부터의 탈출](http://thinkinginruby.com/2015/04/08/exodus-from-indent/){: .article data-date="2015.04.08" data-tags="ruby" data-author="강사룡" }
 - [루비 스타일(1) – C로부터의 탈출](https://thinkinginruby.wordpress.com/2015/04/07/exodus-from-c/){: .article data-date="2015.04.04" data-tags="ruby" data-author="강사룡" }
-- [서버 300대 규모의 레일즈 앱 개발하기(번역 및 요약)](http://test-driven.me/archives/217){: .article data-date="2015.04.04" data-tags="translated rails" data-author="keepmoving" }
 - [레일스를 계속 버전업하려면 필요한 것](https://dayone.me/1o5Pzcb){: .article data-date="2015.02.17" data-tags="translated rails" data-author="marocchino" }
 - [워드프레스에서 지킬로 본진 이동](http://we.weirdmeetup.com/jekyll-워드프레스에서-지킬로-본진-이동/){: .article data-date="2015.01.27" data-tags="jekyll" data-author="ohyecloudy" }
 - [Minitest, RSpec 경험담](https://dayone.me/1h07zq8){: .article data-date="2015.01.27" data-tags="translated test" data-author="marocchino" }
