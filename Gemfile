@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby '2.2.0' unless ENV['DEV']
+ruby '2.5.0' unless ENV['DEV']
 
 gem 'rake'
 gem 'github-pages'
