@@ -32,7 +32,6 @@ title: 루비 프로그래밍 언어 한국어 문서
 - [Docker(도커)로 Ruby On Rails 쉽게 배포하기](http://seapy.com/2084){: .article data-date="2014.08.03" data-tags="rails ci" data-author="seapy" }
 - [‘루비’의 아빠, 마츠모토 유키히로](http://www.bloter.net/archives/184564){: .article data-date="2014.03.12" data-tags="ruby" data-author="블로터" }
 - [맨붕없이 RVM과 루비 설치하기](http://bigmatch.i-um.net/2013/12/%EB%A9%98%EB%B6%95%EC%97%86%EC%9D%B4-rvm%EA%B3%BC-%EB%A3%A8%EB%B9%84-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/){: .article data-date="2013.12.04" data-tags="ruby" data-author="Bigmatch" }
-- [Ruby의 철학에 관한 마츠모토 유키히로의 인터뷰 Part 1](http://we.weirdmeetup.com/ruby의-철학에-관한-마츠모토-유키히로의-인터뷰-part-1/){: .article data-date="2013.08.15" data-tags="translated ruby" data-author="JOONJEONG" }
 - [분산 테스트 실행 시스템 RRRSpec을 출시하였습니다.](https://gist.github.com/marocchino/9738532){: .article data-date="2013.03.24" data-tags="translated test" data-author="marocchino" }
 
 
