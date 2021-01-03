@@ -59,6 +59,7 @@ title: 루비 프로그래밍 언어 한국어 문서
 - [루비 스타일 가이드](https://github.com/dalzony/ruby-style-guide/blob/master/README-koKR.md){: .article data-tags="translated ruby" data-author="dalzony"}
 - [알아두면 도움이 되는 55가지 루비 기법](https://gist.github.com/nacyot/7624036){: .article data-tags="translated ruby" data-author="nacyot"}
 - [Joinc : Ruby](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Ruby){: .article data-tags="ruby"}
+- [이상한 모임 : 루비](https://blog.weirdx.io/?s=+ruby){: .article data-tags="ruby"}
 - [생활코딩 : 루비](http://opentutorials.org/course/742/4554){: .article data-tags="ruby"}
 - [레일즈 스타일 가이드](https://github.com/pureugong/rails-style-guide/blob/master/README-koKR.md){: .article data-tags="translated rails"}
 - [지킬(jekyll)](http://jekyllrb-ko.github.io){: .article data-tags="translated gem"}
