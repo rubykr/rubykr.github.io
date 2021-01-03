@@ -1,10 +1,11 @@
 source "https://rubygems.org"
-ruby '2.5.0' unless ENV['DEV']
+ruby '3.0.0' unless ENV['DEV']
 
 gem 'rake'
 gem 'github-pages'
 gem 'kramdown'
 gem 'travis'
+gem 'webrick'
 
 group :development do
   gem 'validate-website', '~> 1.0'
