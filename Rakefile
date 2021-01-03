@@ -27,7 +27,8 @@ task :preview do
   sh 'jekyll serve --watch'
 end
 
-task travis: ENV["TRAVIS_PULL_REQUEST"] == "false" ? [:test, :build, :validate_markup, :release] : [:test, :build, :validate_markup]
+# task travis: ENV["TRAVIS_PULL_REQUEST"] == "false" ? [:test, :build, :validate_markup, :release] : [:test, :build, :validate_markup]
+task travis: ENV["TRAVIS_PULL_REQUEST"] == "false" ? [:test, :build, :release] : [:test, :build]
 
 desc "Release the current commit to ruby-korea/ruby-korea.github.io@master"
 task :release do
