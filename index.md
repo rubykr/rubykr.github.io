@@ -10,6 +10,9 @@ title: 루비 프로그래밍 언어 한국어 문서
 ## [글](#articles)
 {: #articles}
 
+- [루비 스타일(3) – 말하는 듯한 코딩](http://thinkinginruby.wordpress.com/2015/04/13/talking-in-code/){: .article data-date="2015.04.13" data-tags="ruby" data-author="강사룡" }
+- [루비 스타일(2) – 들여쓰기(indent)로부터의 탈출](http://thinkinginruby.wordpress.com/2015/04/08/exodus-from-indent/){: .article data-date="2015.04.08" data-tags="ruby" data-author="강사룡" }
+- [루비 스타일(1) – C로부터의 탈출](https://thinkinginruby.wordpress.com/2015/04/07/exodus-from-c/){: .article data-date="2015.04.04" data-tags="ruby" data-author="강사룡" }
 - [레일스를 계속 버전업하려면 필요한 것](https://dayone.me/1o5Pzcb){: .article data-date="2015.02.17" data-tags="translated rails" data-author="marocchino" }
 - [Minitest, RSpec 경험담](https://dayone.me/1h07zq8){: .article data-date="2015.01.27" data-tags="translated test" data-author="marocchino" }
 - [루비에 블록이 있는 이유](https://dayone.me/1g50zn8){: .article data-date="2015.01.22" data-tags="translated ruby" data-author="marocchino" }
