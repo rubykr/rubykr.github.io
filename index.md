@@ -10,13 +10,7 @@ title: 루비 프로그래밍 언어 한국어 문서
 ## [글](#articles)
 {: #articles}
 
-- [레일즈 5의 액션 케이블을 활용한 채팅 앱 구현](http://blog.ask.co.de/2016/06/레일즈-5의-액션-케이블을-활용한-채팅-앱-구현/){: .article data-date="2016.06.18" data-tags="ruby" data-author="ASK BLOG" }
-- [주피터(Jupyter) - IRuby Notebook 보충](http://blog.nacyot.com/articles/2015-04-15-rorlab-jupyter-iruby-notebook/){: .article data-date="2015.04.15" data-tags="ruby" data-author="nacyot" }
-- [루비 스타일(3) – 말하는 듯한 코딩](http://thinkinginruby.com/2015/04/13/talking-in-code/){: .article data-date="2015.04.13" data-tags="ruby" data-author="강사룡" }
-- [루비 스타일(2) – 들여쓰기(indent)로부터의 탈출](http://thinkinginruby.com/2015/04/08/exodus-from-indent/){: .article data-date="2015.04.08" data-tags="ruby" data-author="강사룡" }
-- [루비 스타일(1) – C로부터의 탈출](https://thinkinginruby.wordpress.com/2015/04/07/exodus-from-c/){: .article data-date="2015.04.04" data-tags="ruby" data-author="강사룡" }
 - [레일스를 계속 버전업하려면 필요한 것](https://dayone.me/1o5Pzcb){: .article data-date="2015.02.17" data-tags="translated rails" data-author="marocchino" }
-- [워드프레스에서 지킬로 본진 이동](http://we.weirdmeetup.com/jekyll-워드프레스에서-지킬로-본진-이동/){: .article data-date="2015.01.27" data-tags="jekyll" data-author="ohyecloudy" }
 - [Minitest, RSpec 경험담](https://dayone.me/1h07zq8){: .article data-date="2015.01.27" data-tags="translated test" data-author="marocchino" }
 - [루비에 블록이 있는 이유](https://dayone.me/1g50zn8){: .article data-date="2015.01.22" data-tags="translated ruby" data-author="marocchino" }
 - [루비 2.2에서의 슈퍼 메소드 디버그](https://dayone.me/1faIzEW){: .article data-date="2015.01.19" data-tags="translated ruby" data-author="marocchino" }
@@ -32,25 +26,10 @@ title: 루비 프로그래밍 언어 한국어 문서
 - [whenever 사용하기](https://gist.github.com/marocchino/339af95e07d17ed2a87e){: .article data-date="2014.10.14" data-tags="gem" data-author="marocchino" }
 - [Ruby 개발환경 설정하기 (윈도우7에서)](http://bcho.tistory.com/946){: .article data-date="2014.08.18" data-tags="ruby" data-author="TerryCho" }
 - [Ruby 언어 기본 문법](http://bcho.tistory.com/945){: .article data-date="2014.08.18" data-tags="ruby" data-author="TerryCho" }
-- [도커(Docker)로 루비 온 레일스 어플리케이션 배포하기 (1) 어플리케이션 이미지 만들기](http://blog.nacyot.com/articles/2014-08-08-rails-on-docker/){: .article data-date="2014.08.08" data-tags="rails ci" data-author="seapy" }
 - [Docker(도커)로 Ruby On Rails 쉽게 배포하기](http://seapy.com/2084){: .article data-date="2014.08.03" data-tags="rails ci" data-author="seapy" }
-- [루비의 꽃, 열거자 Enumerable 모듈](http://blog.nacyot.com/articles/2014-04-19-ruby-enumerable/){: .article data-date="2014.04.19" data-tags="ruby" data-author="nacyot" }
-- [쿡패드(Cookpad) 루비 스타일 가이드](http://blog.nacyot.com/articles/2014-03-23-cookpad-ruby-styleguide/){: .article data-date="2014.03.23" data-tags="translated ruby" data-author="nacyot" }
 - [‘루비’의 아빠, 마츠모토 유키히로](http://www.bloter.net/archives/184564){: .article data-date="2014.03.12" data-tags="ruby" data-author="블로터" }
-- [AngularJS + Rails 프로젝트 구성](http://blog.remotty.com/blog/2014/02/01/angularjs-plus-rails-peurojegteu-guseong/){: .article data-date="2014.02.01" data-tags="rails" data-author="subicura" }
-- [Padrino Blog Tutorial](http://blog.baenlee.com/blog/2013/12/30/bundle-exec-padrino-g-project/){: .article data-date="2013.12.30" data-tags="translated gem" data-author="gosoochaja" }
 - [맨붕없이 RVM과 루비 설치하기](http://bigmatch.i-um.net/2013/12/%EB%A9%98%EB%B6%95%EC%97%86%EC%9D%B4-rvm%EA%B3%BC-%EB%A3%A8%EB%B9%84-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/){: .article data-date="2013.12.04" data-tags="ruby" data-author="Bigmatch" }
-- [Rspec과 Guard를 활용한 루비 테스트 자동화](http://blog.nacyot.com/articles/2013-10-02-ruby-test-automation-with-rspec-and-guard/){: .article data-date="2013.10.02" data-tags="test" data-author="nacyot" }
-- [Thinking about Ruby’s Class Declaration Syntax, Object Creation Mechanism](http://we.weirdmeetup.com/thinking-about-rubys-class-declaration-syntax-object-creation-mechanism/){: .article data-date="2013.09.02" data-tags="ruby" data-author="JOONJEONG" }
-- [루비의 Each와 Map의 차이](http://blog.baenlee.com/blog/2013/09/05/difference-between-the-map-and-each-in-ruby/){: .article data-date="2013.09.05" data-tags="ruby" data-author="gosoochaja" }
-- [9분만에 배우는 루비(Ruby)](http://blog.baenlee.com/blog/2013/08/19/try-ruby-00){: .article data-date="2013.08.19" data-tags="ruby" data-author="gosoochaja" }
-- [JavaScript를 Ruby처럼 작성하기](http://blog.baenlee.com/blog/2013/08/16/jsruby/){: .article data-date="2013.08.16" data-tags="ruby" data-author="gosoochaja" }
 - [Ruby의 철학에 관한 마츠모토 유키히로의 인터뷰 Part 1](http://we.weirdmeetup.com/ruby의-철학에-관한-마츠모토-유키히로의-인터뷰-part-1/){: .article data-date="2013.08.15" data-tags="translated ruby" data-author="JOONJEONG" }
-- [루비 온 레일스 아키텍처 디자인](http://flowkater.github.io/blog/2013/08/12/rails-architecture/){: .article data-date="2013.08.12" data-tags="translated rails" data-author="Fl0wk27er" }
-- [Ruby 와 Rails 배우고 싶을때](http://flowkater.github.io/blog/2013/08/07/ruby-and-rails-learning-resource/){: .article data-date="2013.08.07" data-tags="ruby rails" data-author="Fl0wk27er" }
-- [Ruby, Rails 스터디 이전 발표 자료](http://flowkater.github.io/blog/2013/05/29/be-a-rubyist-1-2/){: .article data-date="2013.05.29" data-tags="ruby rails" data-author="Fl0wk27er" }
-- [- TDD는 죽었다 - Rails를 만든 DHH의 글](http://yisangwook.tumblr.com/post/83725422949/tdd-is-dead-long-live-testing){: .article data-date="2013.04.25" data-tags="translated test" data-author="yisangwook" }
-- [루비 테스트 프레임워크 RSpec 2.14 매쳐(Matchers)](http://blog.nacyot.com/articles/2014-04-07-rspec-matchers/){: .article data-date="2013.04.07" data-tags="test" data-author="nacyot" }
 - [분산 테스트 실행 시스템 RRRSpec을 출시하였습니다.](https://gist.github.com/marocchino/9738532){: .article data-date="2013.03.24" data-tags="translated test" data-author="marocchino" }
 
 
@@ -58,13 +37,10 @@ title: 루비 프로그래밍 언어 한국어 문서
 {: #movies}
 
 - [Rack 어플리케이션 작성 개요](https://www.youtube.com/watch?v=A1JyeGEColQ){: .article data-date="2015.01.20" data-tags="rack" data-author="marocchino" }
-- [도커(Docker)로 루비 온 레일스(Ruby on Rails) 어플리케이션 배포하기 1/2](https://www.youtube.com/watch?v=LEeQvLx70MA){: .article data-date="2014.06.11" data-tags="rails ci" data-author="nacyot" }
-- [Zero to Pinterest UI(Dev.Study.Archive)](http://dev-study.github.io/presentations/zero_to_pinterent_ui.html){: .article data-date="2013.08.18" data-tags="rails" data-author="김성준" }
 - [루비 기본 100분](http://www.youtube.com/watch?v=vjyL6fLzJjA){: .article data-date="2013.01.19" data-tags="ruby" data-author="서동주" }
 - [Instant Prototyping with Ruby on Rails(H3 2012)](http://www.youtube.com/watch?v=AlNLavCg3yg){: .article data-date="2012.11.13" data-tags="rails" data-author="최명진" }
 - [Open API 와 Ruby on Rails 에 대한 이야기(H3 2012)](http://www.youtube.com/watch?v=fAi0PC0v5OQ){: .article data-date="2012.11.13" data-tags="rails" data-author="조범석" }
 - [루비는 패셔니스타(Deview 2012)](http://deview.kr/2012/xe/index.php?mid=track&document_srl=391&time_srl=233){: .article data-date="2012.09.27" data-tags="ruby" data-author="문추근" }
-- [RORLab Podcasts](https://itunes.apple.com/cy/podcast/rorlab-podcast/id770036911){: .article data-tags="rails"}
 - [Coding Life](http://www.youtube.com/playlist?list=PLbdtsbZUwdeSAjccModOzFREAyX9W4Jh-){: .article data-tags="test" data-author="Ashal JOKER"}
 
 ## [문서, 사이트](#docs)
@@ -81,13 +57,7 @@ title: 루비 프로그래밍 언어 한국어 문서
 - [루비 스타일 가이드](https://github.com/dalzony/ruby-style-guide/blob/master/README-koKR.md){: .article data-tags="translated ruby" data-author="dalzony"}
 - [알아두면 도움이 되는 55가지 루비 기법](https://gist.github.com/nacyot/7624036){: .article data-tags="translated ruby" data-author="nacyot"}
 - [Joinc : Ruby](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Ruby){: .article data-tags="ruby"}
-- [이상한 모임 : 루비](http://we.weirdmeetup.com/tag/ruby/){: .article data-tags="ruby"}
 - [생활코딩 : 루비](http://opentutorials.org/course/742/4554){: .article data-tags="ruby"}
-- 레일스 가이드
-  [RubyKr](http://rorlab.org/rg/index.html){: .article data-tags="translated rails"}
-  [ROR Lab](http://guides.rorlab.org)
-- [ROR Lab.](http://rorlab.org/){: .article data-tags="rails"}
-  - [HappyRails](http://happyrails.rorlab.org/ko)
 - [레일즈 스타일 가이드](https://github.com/pureugong/rails-style-guide/blob/master/README-koKR.md){: .article data-tags="translated rails"}
 - [지킬(jekyll)](http://jekyllrb-ko.github.io){: .article data-tags="translated gem"}
 - [시나트라(sinatra)](http://www.sinatrarb.com/intro-ko.html){: .article data-tags="translated gem"}
@@ -145,8 +115,8 @@ title: 루비 프로그래밍 언어 한국어 문서
 ### [오래된 책들](#book-old)
 {: #book-old}
 
-현재 루비 최신 버전은 2.2, 레일스 최신 버전은 4.2 입니다. 루비 1.9, 레일스 2는
-지원이 끝난 상태이며 루비 2.0과 레일스 3은 보안 유지보수 상태입니다. 아래에 있는
+현재 루비 최신 버전은 3.0, 레일스 최신 버전은 6.1 입니다. 루비 2.4, 레일스 3은
+지원이 끝난 상태이며 루비 2.5과 레일스 4는 보안 유지보수 상태입니다. 아래에 있는
 책들은 루비 1.8 이전, 레일스 2 이전의 내용을 담고 있습니다. 루비의 경우는 오래된
 책으로도 기본적인 컨샙을 이해하기에 무리가 없습니다만, 레일스는 2에서 3,4로 넘어갈
 때 중요한 문체의 변화가 있었고 그 시점에서 잘 돌아갔던 코드라도 지금은 사용할 수
