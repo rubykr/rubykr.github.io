@@ -1,7 +1,7 @@
 ruby-korea.github.io
 ====================
 
-[![Build Status](https://travis-ci.org/ruby-korea/ruby-korea.github.io.svg?branch=jekyll)](https://travis-ci.org/ruby-korea/ruby-korea.github.io)
+[![Build Status](https://github.com/ruby-korea/ruby-korea.github.io/workflows/Deploy/badge.svg)](https://github.com/ruby-korea/ruby-korea.github.io/actions?query=workflow%3ADeploy)
 
 - 이 [페이지](https://ruby-korea.github.io)는 루비에 관련된 한국어 링크를 모아
   한국의 루비스트가 편하게 찾을 수 있도록 만들었습니다.
