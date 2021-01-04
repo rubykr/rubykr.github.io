@@ -160,3 +160,4 @@ Ruby Korea 그룹에서는 루비와 관련된 문서를 작성하고, 좋은 �
 
 - [Github Ruby-Korea Organization](https://github.com/ruby-korea)
 - [Facebook Ruby Korea Group](https://www.facebook.com/groups/rubykr)
+- [루비 귀금속 매장](https://discord.gg/uHQj7X68Mf)
