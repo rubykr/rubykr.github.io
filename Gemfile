@@ -1,5 +1,5 @@
-source "https://rubygems.org"
-ruby '3.0.0' unless ENV['DEV']
+source 'https://rubygems.org'
+ruby '3.0.0'
 
 gem 'rake'
 gem 'github-pages'
