@@ -64,16 +64,16 @@ title: 루비 프로그래밍 언어 한국어 문서
 - [레일즈 스타일 가이드](https://github.com/pureugong/rails-style-guide/blob/master/README-koKR.md){: .article data-tags="translated rails"}
 - [지킬(jekyll)](http://jekyllrb-ko.github.io){: .article data-tags="translated gem"}
 - [시나트라(sinatra)](http://www.sinatrarb.com/intro-ko.html){: .article data-tags="translated gem"}
-- [번들러(Bundler)](http://ruby-korea.github.io/bundler-site/){: .article data-tags="translated gem"}
-- [루비젬스(RubyGems)](http://ruby-korea.github.io/rubygems-guides/){: .article data-tags="translated gem"}
+- [번들러(Bundler)](http://rubykr.github.io/bundler-site/){: .article data-tags="translated gem"}
+- [루비젬스(RubyGems)](http://rubykr.github.io/rubygems-guides/){: .article data-tags="translated gem"}
 - RubyMotion 공식 문서 [ ](#){: .article data-tags="translated rubymotion"}
   - Articles
-    - [Use CocoaPods Dependencies in RubyMotion Apps](http://ruby-korea.github.io/RubyMotionDocumentation/articles/cocoapods/)
-    - [Submit RubyMotion Apps to TestFlight](http://ruby-korea.github.io/RubyMotionDocumentation/articles/testflight/)
-    - [Setting up your editor to work with RubyMotion](http://ruby-korea.github.io/RubyMotionDocumentation/articles/editors/)
-    - [Debugging RubyMotion applications](http://ruby-korea.github.io/RubyMotionDocumentation/articles/debugging/)
-    - [Writing Ruby gems for RubyMotion](http://ruby-korea.github.io/RubyMotionDocumentation/articles/gems/)
-    - [Writing Tests for RubyMotion Apps](http://ruby-korea.github.io/RubyMotionDocumentation/articles/testing/)
+    - [Use CocoaPods Dependencies in RubyMotion Apps](http://rubykr.github.io/RubyMotionDocumentation/articles/cocoapods/)
+    - [Submit RubyMotion Apps to TestFlight](http://rubykr.github.io/RubyMotionDocumentation/articles/testflight/)
+    - [Setting up your editor to work with RubyMotion](http://rubykr.github.io/RubyMotionDocumentation/articles/editors/)
+    - [Debugging RubyMotion applications](http://rubykr.github.io/RubyMotionDocumentation/articles/debugging/)
+    - [Writing Ruby gems for RubyMotion](http://rubykr.github.io/RubyMotionDocumentation/articles/gems/)
+    - [Writing Tests for RubyMotion Apps](http://rubykr.github.io/RubyMotionDocumentation/articles/testing/)
 - [Better Specs](http://betterspecs.org/ko){: .article data-tags="translated test"}
 
 ## [책](#book)
@@ -151,13 +151,13 @@ title: 루비 프로그래밍 언어 한국어 문서
 
 ## 기여하기
 
-Ruby Korea 그룹에서는 루비와 관련된 문서를 작성하고, 좋은 글을 번역하고 있습니다. 번역에 참가하시고자 하는 분은 Github의 [Ruby Korea Organization 페이지](https://github.com/ruby-korea)와 [기여하기](https://github.com/ruby-korea/ruby-korea.github.io/wiki/%EA%B8%B0%EC%97%AC%ED%95%98%EA%B8%B0) 페이지를 참고해주시기 바랍니다.
+이 그룹에서는 루비와 관련된 문서를 작성하고, 좋은 글을 번역하고 있습니다. 번역에 참가하시고자 하는 분은 Github의 [Rubykr Organization 페이지](https://github.com/rubykr)와 [기여하기](https://github.com/rubykr/rubykr.github.io/wiki/%EA%B8%B0%EC%97%AC%ED%95%98%EA%B8%B0) 페이지를 참고해주시기 바랍니다.
 
-또한 이 문서에 추가하시고 싶은 링크가 있으시면 [저장소](https://github.com/ruby-korea/ruby-korea.github.io)에 풀리퀘스트를 보내주시거나 아래에 댓글을 남겨주시기 바랍니다.
-업데이트하는데 도움을 주신 [모든 분](https://github.com/ruby-korea/ruby-korea.github.io/graphs/contributors)께 감사드립니다.
+또한 이 문서에 추가하시고 싶은 링크가 있으시면 [저장소](https://github.com/rubykr/rubykr.github.io)에 풀리퀘스트를 보내주시거나 아래에 댓글을 남겨주시기 바랍니다.
+업데이트하는데 도움을 주신 [모든 분](https://github.com/rubykr/rubykr.github.io/graphs/contributors)께 감사드립니다.
 
 ## Links
 
-- [Github Ruby-Korea Organization](https://github.com/ruby-korea)
+- [Github Ruby-Korea Organization](https://github.com/rubykr)
 - [Facebook Ruby Korea Group](https://www.facebook.com/groups/rubykr)
 - [루비 귀금속 매장](https://discord.gg/uHQj7X68Mf)
