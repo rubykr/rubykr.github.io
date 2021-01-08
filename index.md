@@ -39,7 +39,6 @@ title: 루비 프로그래밍 언어 한국어 문서
 {: #movies}
 
 - [Rack 어플리케이션 작성 개요](https://www.youtube.com/watch?v=A1JyeGEColQ){: .article data-date="2015.01.20" data-tags="rack" data-author="marocchino" }
-- [루비 기본 100분](http://www.youtube.com/watch?v=vjyL6fLzJjA){: .article data-date="2013.01.19" data-tags="ruby" data-author="서동주" }
 - [Instant Prototyping with Ruby on Rails(H3 2012)](http://www.youtube.com/watch?v=AlNLavCg3yg){: .article data-date="2012.11.13" data-tags="rails" data-author="최명진" }
 - [Open API 와 Ruby on Rails 에 대한 이야기(H3 2012)](http://www.youtube.com/watch?v=fAi0PC0v5OQ){: .article data-date="2012.11.13" data-tags="rails" data-author="조범석" }
 - [루비는 패셔니스타(Deview 2012)](http://deview.kr/2012/xe/index.php?mid=track&document_srl=391&time_srl=233){: .article data-date="2012.09.27" data-tags="ruby" data-author="문추근" }
@@ -156,6 +155,7 @@ title: 루비 프로그래밍 언어 한국어 문서
 업데이트하는데 도움을 주신 [모든 분](https://github.com/rubykr/rubykr.github.io/graphs/contributors)께 감사드립니다.
 
 ## Links
+
 - <a href="https://github.com/rubykr"><img src="https://img.shields.io/badge/%EB%A3%A8%EB%B9%84%EC%BD%94%EB%A6%AC%EC%95%84%20%EB%8B%A8%EC%B2%B4-010101?style=flat&logo=github&logoColor=white"/></a>
 - <a href="https://www.facebook.com/groups/rubykr"><img src="https://img.shields.io/badge/%EB%A3%A8%EB%B9%84%EC%BD%94%EB%A6%AC%EC%95%84%20%EA%B7%B8%EB%A3%B9-4267B2?style=flat&logo=facebook&logoColor=white"/></a>
 - <a href="https://discord.gg/uHQj7X68Mf"><img src="https://img.shields.io/badge/%EB%A3%A8%EB%B9%84%EC%BD%94%EB%A6%AC%EC%95%84%20%EC%82%AC%EC%9A%A9%EC%9E%90%EB%AA%A8%EC%9E%84-7289DA?style=flat&logo=discord&logoColor=white"/></a>
