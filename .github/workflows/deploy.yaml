@@ -11,12 +11,17 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.0.0
+          bundler-cache: true
       - name: Install dependencies
-        run: bundle install --jobs 4 --retry 3
+        run: |
+          sudo apt-get install libtidy-dev
+          bundle install --jobs 4 --retry 3
       - name: Test
         run: bundle exec rake test
       - name: Gen page

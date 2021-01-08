@@ -156,6 +156,6 @@ title: 루비 프로그래밍 언어 한국어 문서
 
 ## Links
 
-- <a href="https://github.com/rubykr"><img src="https://img.shields.io/badge/%EB%A3%A8%EB%B9%84%EC%BD%94%EB%A6%AC%EC%95%84%20%EB%8B%A8%EC%B2%B4-010101?style=flat&logo=github&logoColor=white"/></a>
-- <a href="https://www.facebook.com/groups/rubykr"><img src="https://img.shields.io/badge/%EB%A3%A8%EB%B9%84%EC%BD%94%EB%A6%AC%EC%95%84%20%EA%B7%B8%EB%A3%B9-4267B2?style=flat&logo=facebook&logoColor=white"/></a>
-- <a href="https://discord.gg/uHQj7X68Mf"><img src="https://img.shields.io/badge/%EB%A3%A8%EB%B9%84%EC%BD%94%EB%A6%AC%EC%95%84%20%EC%82%AC%EC%9A%A9%EC%9E%90%EB%AA%A8%EC%9E%84-7289DA?style=flat&logo=discord&logoColor=white"/></a>
+- <a href="https://github.com/rubykr"><img src="https://img.shields.io/badge/%EB%A3%A8%EB%B9%84%EC%BD%94%EB%A6%AC%EC%95%84%20%EB%8B%A8%EC%B2%B4-010101?style=flat&logo=github&logoColor=white" alt=""/></a>
+- <a href="https://www.facebook.com/groups/rubykr"><img src="https://img.shields.io/badge/%EB%A3%A8%EB%B9%84%EC%BD%94%EB%A6%AC%EC%95%84%20%EA%B7%B8%EB%A3%B9-4267B2?style=flat&logo=facebook&logoColor=white" alt=""/></a>
+- <a href="https://discord.gg/uHQj7X68Mf"><img src="https://img.shields.io/badge/%EB%A3%A8%EB%B9%84%EC%BD%94%EB%A6%AC%EC%95%84%20%EC%82%AC%EC%9A%A9%EC%9E%90%EB%AA%A8%EC%9E%84-7289DA?style=flat&logo=discord&logoColor=white" alt=""/></a>
