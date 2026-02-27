@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>루비 프로그래밍 언어 한국어 문서</title>
+  <description></description>
+  <link href="https://rubykr.github.io" />
+  <link href="https://rubykr.github.io/feed.xml" rel="self" />
+  <updated>Fri, 27 Feb 2026 17:12:50 +0900</updated>
+  
+  <entry>
+    <title>루비 스타일(3) – 말하는 듯한 코딩</title>
+    <link href="https://thinkinginruby.wordpress.com/2015/04/13/talking-in-code/" />
+    <id>https://thinkinginruby.wordpress.com/2015/04/13/talking-in-code/</id>
+    <author>
+      <name>강사룡</name>
+    </author>
+    <updated>Mon, 13 Apr 2015 00:00:00 +0900</updated>
+  </entry>
+  
+  <entry>
+    <title>루비 스타일(2) – 들여쓰기(indent)로부터의 탈출</title>
+    <link href="https://thinkinginruby.wordpress.com/2015/04/08/exodus-from-indent/" />
+    <id>https://thinkinginruby.wordpress.com/2015/04/08/exodus-from-indent/</id>
+    <author>
+      <name>강사룡</name>
+    </author>
+    <updated>Wed, 08 Apr 2015 00:00:00 +0900</updated>
+  </entry>
+  
+  <entry>
+    <title>루비 스타일(1) – C로부터의 탈출</title>
+    <link href="https://thinkinginruby.wordpress.com/2015/04/07/exodus-from-c/" />
+    <id>https://thinkinginruby.wordpress.com/2015/04/07/exodus-from-c/</id>
+    <author>
+      <name>강사룡</name>
+    </author>
+    <updated>Sat, 04 Apr 2015 00:00:00 +0900</updated>
+  </entry>
+  
+  <entry>
+    <title>[번역] 레일스를 계속 버전업하려면 필요한 것</title>
+    <link href="https://dayone.me/1o5Pzcb" />
+    <id>https://dayone.me/1o5Pzcb</id>
+    <author>
+      <name>marocchino</name>
+    </author>
+    <updated>Tue, 17 Feb 2015 00:00:00 +0900</updated>
+  </entry>
+  
+  <entry>
+    <title>[번역] Minitest, RSpec 경험담</title>
+    <link href="https://dayone.me/1h07zq8" />
+    <id>https://dayone.me/1h07zq8</id>
+    <author>
+      <name>marocchino</name>
+    </author>
+    <updated>Tue, 27 Jan 2015 00:00:00 +0900</updated>
+  </entry>
+  
+  <entry>
+    <title>[번역] 루비에 블록이 있는 이유</title>
+    <link href="https://dayone.me/1g50zn8" />
+    <id>https://dayone.me/1g50zn8</id>
+    <author>
+      <name>marocchino</name>
+    </author>
+    <updated>Thu, 22 Jan 2015 00:00:00 +0900</updated>
+  </entry>
+  
+  <entry>
+    <title>[번역] 루비 2.2에서의 슈퍼 메소드 디버그</title>
+    <link href="https://dayone.me/1faIzEW" />
+    <id>https://dayone.me/1faIzEW</id>
+    <author>
+      <name>marocchino</name>
+    </author>
+    <updated>Mon, 19 Jan 2015 00:00:00 +0900</updated>
+  </entry>
+  
+  <entry>
+    <title>[번역] 사용해봐야 할 5가지 루비 메소드</title>
+    <link href="https://dayone.me/1eP1zCQ" />
+    <id>https://dayone.me/1eP1zCQ</id>
+    <author>
+      <name>marocchino</name>
+    </author>
+    <updated>Sat, 17 Jan 2015 00:00:00 +0900</updated>
+  </entry>
+  
+  <entry>
+    <title>[번역] 루비에 컨트리뷰트 했다.</title>
+    <link href="https://dayone.me/1dJRzSb" />
+    <id>https://dayone.me/1dJRzSb</id>
+    <author>
+      <name>marocchino</name>
+    </author>
+    <updated>Mon, 12 Jan 2015 00:00:00 +0900</updated>
+  </entry>
+  
+  <entry>
+    <title>Slack 팀 자동 가입 페이지 Heroku에 배포</title>
+    <link href="http://seapy.com/2087" />
+    <id>http://seapy.com/2087</id>
+    <author>
+      <name>seapy</name>
+    </author>
+    <updated>Mon, 12 Jan 2015 00:00:00 +0900</updated>
+  </entry>
+  
+</feed>

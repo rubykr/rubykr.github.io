@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title><![CDATA[루비 프로그래밍 언어 한국어 문서]]></title>
+    <link>https://rubykr.github.io</link>
+    <lastBuildDate>Fri, 27 Feb 2026 17:12:50 +0900</lastBuildDate>
+    <language>ko</language>
+    <description><![CDATA[]]></description>
+    
+    <item>
+      <title><![CDATA[루비 스타일(3) – 말하는 듯한 코딩]]></title>
+      <guid isPermaLink="false">https://thinkinginruby.wordpress.com/2015/04/13/talking-in-code/</guid>
+      <link>https://thinkinginruby.wordpress.com/2015/04/13/talking-in-code/</link>
+      <pubDate>Mon, 13 Apr 2015 00:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title><![CDATA[루비 스타일(2) – 들여쓰기(indent)로부터의 탈출]]></title>
+      <guid isPermaLink="false">https://thinkinginruby.wordpress.com/2015/04/08/exodus-from-indent/</guid>
+      <link>https://thinkinginruby.wordpress.com/2015/04/08/exodus-from-indent/</link>
+      <pubDate>Wed, 08 Apr 2015 00:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title><![CDATA[루비 스타일(1) – C로부터의 탈출]]></title>
+      <guid isPermaLink="false">https://thinkinginruby.wordpress.com/2015/04/07/exodus-from-c/</guid>
+      <link>https://thinkinginruby.wordpress.com/2015/04/07/exodus-from-c/</link>
+      <pubDate>Sat, 04 Apr 2015 00:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title><![CDATA[[번역] 레일스를 계속 버전업하려면 필요한 것]]></title>
+      <guid isPermaLink="false">https://dayone.me/1o5Pzcb</guid>
+      <link>https://dayone.me/1o5Pzcb</link>
+      <pubDate>Tue, 17 Feb 2015 00:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title><![CDATA[[번역] Minitest, RSpec 경험담]]></title>
+      <guid isPermaLink="false">https://dayone.me/1h07zq8</guid>
+      <link>https://dayone.me/1h07zq8</link>
+      <pubDate>Tue, 27 Jan 2015 00:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title><![CDATA[[번역] 루비에 블록이 있는 이유]]></title>
+      <guid isPermaLink="false">https://dayone.me/1g50zn8</guid>
+      <link>https://dayone.me/1g50zn8</link>
+      <pubDate>Thu, 22 Jan 2015 00:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title><![CDATA[[번역] 루비 2.2에서의 슈퍼 메소드 디버그]]></title>
+      <guid isPermaLink="false">https://dayone.me/1faIzEW</guid>
+      <link>https://dayone.me/1faIzEW</link>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title><![CDATA[[번역] 사용해봐야 할 5가지 루비 메소드]]></title>
+      <guid isPermaLink="false">https://dayone.me/1eP1zCQ</guid>
+      <link>https://dayone.me/1eP1zCQ</link>
+      <pubDate>Sat, 17 Jan 2015 00:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title><![CDATA[[번역] 루비에 컨트리뷰트 했다.]]></title>
+      <guid isPermaLink="false">https://dayone.me/1dJRzSb</guid>
+      <link>https://dayone.me/1dJRzSb</link>
+      <pubDate>Mon, 12 Jan 2015 00:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title><![CDATA[Slack 팀 자동 가입 페이지 Heroku에 배포]]></title>
+      <guid isPermaLink="false">http://seapy.com/2087</guid>
+      <link>http://seapy.com/2087</link>
+      <pubDate>Mon, 12 Jan 2015 00:00:00 GMT</pubDate>
+    </item>
+    
+  </channel>
+</rss>
